@@ -43,7 +43,7 @@ Every run also publishes a phone-friendly page with all exams, headlines
 and Done / Mute / Resume buttons:
 `https://himanishvyas.github.io/government-exam-notify-/`
 
-To turn it on (one time): the repo must be public (or on GitHub Pro), then
-Settings -> Pages -> Source: **GitHub Actions**, and run the workflow once.
+It is served by GitHub Pages (Settings -> Pages -> Deploy from a branch,
+this branch, / root); each daily run commits fresh `data.json`.
 Your email address is never put on the page - the first time you tap Done
 or Mute it asks for it and remembers it on your phone only.

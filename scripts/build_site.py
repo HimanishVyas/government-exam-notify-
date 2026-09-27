@@ -1,20 +1,16 @@
 #!/usr/bin/env python3
 """
 Build the dashboard data. Writes a slim data.json from config + state to
-the repo root (committed, so Pages "Deploy from a branch" serves it next to
-index.html) and assembles _site/ for the "GitHub Actions" Pages source.
+the repo root; the workflow commits it and GitHub Pages ("Deploy from a
+branch") serves it next to index.html.
 
-Run locally:  python scripts/build_site.py && python -m http.server -d _site
+Run locally:  python scripts/build_site.py && python -m http.server
 """
 
 import json
-import shutil
 from datetime import datetime, timedelta, timezone
-from pathlib import Path
 
 from check_exams import ACTIVE, KEEP_DAYS, ROOT, STATE_PATH, load_exams, load_json, parse_iso
-
-OUT = ROOT / "_site"
 
 
 def build():
@@ -43,11 +39,7 @@ def build():
 
     payload = json.dumps({"last_run_utc": last_run, "exams": exams}, ensure_ascii=False)
     (ROOT / "data.json").write_text(payload, encoding="utf-8")
-
-    OUT.mkdir(exist_ok=True)
-    (OUT / "data.json").write_text(payload, encoding="utf-8")
-    shutil.copy(ROOT / "index.html", OUT / "index.html")
-    print(f"Built {OUT} with {len(exams)} exams.")
+    print(f"Wrote data.json with {len(exams)} exams.")
 
 
 if __name__ == "__main__":
