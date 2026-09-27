@@ -376,7 +376,11 @@ def main():
         print(text_body)
         return
 
-    if n_exams or notes:
+    if not (user and password):
+        # Not set up yet: still track news so reminders are ready once secrets exist.
+        print("Email secrets not set yet (EMAIL_ADDRESS / EMAIL_PASSWORD) - skipping email.")
+        print(text_body)
+    elif n_exams or notes:
         try:
             send_email(subject, html_body, text_body)
             print("Email sent.")
