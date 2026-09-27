@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Build the dashboard website into _site/ (deployed to GitHub Pages by the
-daily workflow). Writes a slim data.json from config + state and copies
-site/index.html next to it.
+Build the dashboard data. Writes a slim data.json from config + state to
+the repo root (committed, so Pages "Deploy from a branch" serves it next to
+index.html) and assembles _site/ for the "GitHub Actions" Pages source.
 
 Run locally:  python scripts/build_site.py && python -m http.server -d _site
 """
@@ -41,11 +41,12 @@ def build():
         items = items[:10]
         exams.append({"name": exam["name"], "status": record.get("status", ACTIVE), "items": items})
 
+    payload = json.dumps({"last_run_utc": last_run, "exams": exams}, ensure_ascii=False)
+    (ROOT / "data.json").write_text(payload, encoding="utf-8")
+
     OUT.mkdir(exist_ok=True)
-    (OUT / "data.json").write_text(
-        json.dumps({"last_run_utc": last_run, "exams": exams}, ensure_ascii=False), encoding="utf-8"
-    )
-    shutil.copy(ROOT / "site" / "index.html", OUT / "index.html")
+    (OUT / "data.json").write_text(payload, encoding="utf-8")
+    shutil.copy(ROOT / "index.html", OUT / "index.html")
     print(f"Built {OUT} with {len(exams)} exams.")
 
 

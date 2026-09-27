@@ -37,11 +37,14 @@ jobs:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python scripts/check_exams.py
 
+      - name: Build dashboard data
+        run: python scripts/build_site.py
+
       - name: Commit updated state
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update seen-notifications state [skip ci]"
-          file_pattern: state/seen.json
+          file_pattern: state/seen.json data.json
 
   # Publish the dashboard website (GitHub Pages) from the freshly saved state.
   site:
