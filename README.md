@@ -39,6 +39,9 @@ digest. After that you'll only get genuinely new items.
   (UTC time; use crontab.guru to build a new expression).
 - Items per query per email: MAX_ITEMS_PER_QUERY in
   scripts/check_exams.py.
+- Preview without sending email or changing state (needs Python +
+  `pip install -r requirements.txt`):
+  `python scripts/check_exams.py --dry-run`
 
 ## Limitations
 

@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
 
+# Never let a manual run and the scheduled run race on state/seen.json.
+concurrency:
+  group: daily-check
+  cancel-in-progress: false
+
 jobs:
   check:
     runs-on: ubuntu-latest

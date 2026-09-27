@@ -7,9 +7,11 @@ track of links already seen in state/seen.json, and emails a digest of
 anything new.
 
 Run manually:  python scripts/check_exams.py
+Preview only:  python scripts/check_exams.py --dry-run   (no email, no state change)
 Run in CI:     see .github/workflows/daily-check.yml
 """
 
+import html
 import json
 import os
 import smtplib
@@ -52,7 +54,7 @@ def fetch_query(query):
     return feed.entries
 
 
-def build_digest(queries, seen_links, first_run):
+def build_digest(queries, seen_links, seen_order, first_run):
     new_by_query = {}
     now = datetime.now(timezone.utc)
 
@@ -69,9 +71,11 @@ def build_digest(queries, seen_links, first_run):
                     published_dt = datetime(*published[:6], tzinfo=timezone.utc)
                     if (now - published_dt).days > MAX_AGE_DAYS_FIRST_RUN:
                         seen_links.add(link)
+                        seen_order.append(link)
                         continue
             fresh.append(entry)
             seen_links.add(link)
+            seen_order.append(link)
             if len(fresh) >= MAX_ITEMS_PER_QUERY:
                 break
         if fresh:
@@ -85,7 +89,7 @@ def render_email(new_by_query):
     lines_text = ["New government exam notifications", ""]
 
     for query, entries in new_by_query.items():
-        lines_html.append(f"<h3>{query}</h3><ul>")
+        lines_html.append(f"<h3>{html.escape(query)}</h3><ul>")
         lines_text.append(f"## {query}")
         for e in entries:
             title = e.get("title", "(no title)")
@@ -93,8 +97,8 @@ def render_email(new_by_query):
             source = e.get("source", {}).get("title", "") if e.get("source") else ""
             published = e.get("published", "")
             lines_html.append(
-                f'<li><a href="{link}">{title}</a>'
-                f"<br><small>{source} &middot; {published}</small></li>"
+                f'<li><a href="{html.escape(link)}">{html.escape(title)}</a>'
+                f"<br><small>{html.escape(source)} &middot; {html.escape(published)}</small></li>"
             )
             lines_text.append(f"- {title}\n  {link}\n  {source} - {published}")
         lines_html.append("</ul>")
@@ -108,7 +112,7 @@ def send_email(subject, html_body, text_body):
     port = int(os.environ.get("SMTP_PORT", "465"))
     user = os.environ["EMAIL_ADDRESS"]
     password = os.environ["EMAIL_PASSWORD"]
-    to_addr = os.environ.get("EMAIL_TO", user)
+    to_addr = os.environ.get("EMAIL_TO") or user
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
@@ -124,20 +128,25 @@ def send_email(subject, html_body, text_body):
 
 
 def main():
+    dry_run = "--dry-run" in sys.argv[1:]
+
     queries = load_json(CONFIG_PATH, [])
     if not queries:
         print("No queries configured in config/queries.json - nothing to do.")
         return
 
     state = load_json(STATE_PATH, {"seen_links": []})
-    seen_links = set(state.get("seen_links", []))
+    seen_order = list(state.get("seen_links", []))
+    seen_links = set(seen_order)
     first_run = len(seen_links) == 0
 
-    new_by_query = build_digest(queries, seen_links, first_run)
+    new_by_query = build_digest(queries, seen_links, seen_order, first_run)
 
-    state["seen_links"] = list(seen_links)[-5000:]
-    state["last_run_utc"] = datetime.now(timezone.utc).isoformat()
-    save_json(STATE_PATH, state)
+    if not dry_run:
+        # Keep the most recently seen links (list preserves insertion order).
+        state["seen_links"] = seen_order[-5000:]
+        state["last_run_utc"] = datetime.now(timezone.utc).isoformat()
+        save_json(STATE_PATH, state)
 
     if not new_by_query:
         print("No new items found.")
@@ -148,6 +157,11 @@ def main():
 
     html_body, text_body = render_email(new_by_query)
     subject = f"New govt exam notification(s) - {datetime.now().strftime('%d %b %Y')} ({total})"
+
+    if dry_run:
+        print(f"[dry run] Subject: {subject}\n")
+        print(text_body)
+        return
 
     try:
         send_email(subject, html_body, text_body)
