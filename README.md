@@ -1,53 +1,38 @@
 # Govt Exam Notifier
 
-Watches for new government job notifications (Gujarat + national, any
-degree and engineering-specific) and emails a digest — runs free on
-GitHub Actions once a day, no server needed.
+Every morning (~9:00 IST) GitHub Actions searches Google News for each
+exam in `config/queries.json` and emails you one digest.
 
-How it works: each phrase in config/queries.json is checked against
-Google News RSS (same mechanism as Google Alerts). New items since the
-last run are emailed; seen links are remembered in state/seen.json.
+- Any exam with news in the last 45 days is in the email **every day**,
+  with fresh headlines marked **NEW**.
+- It stays there until you tap **Done** or **Mute** under that exam in the
+  email. That opens a pre-filled email to yourself - just press send. The
+  next morning's run picks it up, stops that exam, and archives your
+  command email.
+- Stopped exams are listed at the bottom with a **resume** link.
 
-This is a personal notifier, not an official feed - confirm anything
-important on the exam body's own website before acting on it.
+You can also type the command yourself: send an email to yourself with the
+subject `DONE: SSC CGL`, `MUTE: GSSSB` or `RESUME: SSC CGL` (case doesn't
+matter; part of the name is fine if it's unique).
 
-## Setup
+This is news-based - always confirm dates on the official exam website.
 
-1. Turn on 2-Step Verification on the Gmail account you'll send from:
-   https://myaccount.google.com/security
+## One-time setup (needed before emails work)
+
+1. Turn on 2-Step Verification: https://myaccount.google.com/security
 2. Create an App Password: https://myaccount.google.com/apppasswords
-   (App: Mail, Device: Other -> name it "github-actions"). Copy the
-   16-character password.
-3. In this GitHub repo: Settings -> Secrets and variables -> Actions ->
-   New repository secret. Add:
-   - EMAIL_ADDRESS  = the Gmail address from step 2
-   - EMAIL_PASSWORD = the 16-character app password
-   - EMAIL_TO       = the address you want the digest sent to
-4. Go to the Actions tab -> enable the workflow if prompted -> click
-   "Run workflow" once to test.
-5. Check the run log for "Email sent", check your inbox (and spam), and
-   confirm state/seen.json got a commit after the run.
+   (name it "github-actions") and copy the 16-character password.
+3. In this repo: Settings -> Secrets and variables -> Actions -> New
+   repository secret. Add `EMAIL_ADDRESS` (your Gmail), `EMAIL_PASSWORD`
+   (the app password) and `EMAIL_TO` (where digests go - can be the same
+   Gmail).
+4. Actions tab -> "Daily govt exam notification check" -> Run workflow.
 
-First run note: state/seen.json starts empty, so the first email will
-include everything found in the last ~14 days - expect a bigger first
-digest. After that you'll only get genuinely new items.
+The same app password is used to send the digest (SMTP) and to read your
+Done/Mute emails (IMAP). Only emails sent from `EMAIL_ADDRESS` or
+`EMAIL_TO` are obeyed.
 
-## Customizing
+## Adding or removing exams
 
-- Search terms: edit config/queries.json. Keep phrases specific.
-- Schedule: edit the cron line in .github/workflows/daily-check.yml
-  (UTC time; use crontab.guru to build a new expression).
-- Items per query per email: MAX_ITEMS_PER_QUERY in
-  scripts/check_exams.py.
-- Preview without sending email or changing state (needs Python +
-  `pip install -r requirements.txt`):
-  `python scripts/check_exams.py --dry-run`
-
-## Limitations
-
-- Relies on news coverage of a notification, not the notification
-  itself - not a substitute for checking official portals directly for
-  anything with a hard deadline.
-- Google News RSS can occasionally rate-limit or change format.
-- Does not modify, apply to, or interact with any exam portal - it only
-  reads public news search results and emails a summary.
+Edit `config/queries.json`: each entry has a `name` (shown in the email and
+used for Done/Mute) and a Google News `query`.
