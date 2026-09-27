@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 # Never let a manual run and the scheduled run race on state/seen.json.
 concurrency:
@@ -40,3 +42,38 @@ jobs:
         with:
           commit_message: "chore: update seen-notifications state [skip ci]"
           file_pattern: state/seen.json
+
+  # Publish the dashboard website (GitHub Pages) from the freshly saved state.
+  site:
+    needs: check
+    runs-on: ubuntu-latest
+    # Stays green until Pages is turned on (Settings -> Pages -> Source: GitHub Actions).
+    continue-on-error: true
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Checkout latest state
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build site
+        run: python scripts/build_site.py
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4

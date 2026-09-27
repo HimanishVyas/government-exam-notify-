@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Govt Exam Notifier</title>
+<meta name="robots" content="noindex">
+<style>
+  :root {
+    --bg: #f5f6f8; --card: #fff; --text: #1b1f24; --muted: #6a7280; --line: #e4e7ec;
+    --accent: #2563eb; --new: #dc2626; --done: #15803d; --mute: #6b7280; --pending: #b45309;
+    --chip: #eef1f5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1216; --card: #181c22; --text: #e6e9ee; --muted: #9aa3af; --line: #2a3038;
+      --accent: #3b82f6; --new: #ef4444; --done: #16a34a; --mute: #4b5563; --pending: #b45309;
+      --chip: #232830;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 16px 16px 48px; }
+  header h1 { font-size: 22px; margin: 4px 0 2px; }
+  header p { margin: 0; color: var(--muted); font-size: 14px; }
+  .stats { display: flex; gap: 8px; margin: 14px 0; }
+  .stat { flex: 1; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; }
+  .stat b { display: block; font-size: 22px; }
+  .stat span { color: var(--muted); font-size: 13px; }
+  .tabs { display: flex; gap: 6px; margin: 8px 0 14px; overflow-x: auto; }
+  .tabs button { border: 0; background: var(--chip); color: var(--text); padding: 8px 14px;
+                 border-radius: 999px; font-size: 14px; white-space: nowrap; cursor: pointer; }
+  .tabs button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+          padding: 14px; margin-bottom: 12px; }
+  .card h2 { font-size: 17px; margin: 0; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .badge { font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 6px; color: #fff; background: var(--new); }
+  .badge.stopped { background: var(--mute); }
+  .badge.pending { background: var(--pending); }
+  ul { list-style: none; padding: 0; margin: 10px 0 0; }
+  li { padding: 8px 0; border-top: 1px solid var(--line); }
+  li a { color: var(--text); text-decoration: none; }
+  li a:hover { text-decoration: underline; }
+  li small { display: block; color: var(--muted); font-size: 12.5px; margin-top: 2px; }
+  .newtag { color: var(--new); font-weight: 700; font-size: 12px; margin-right: 4px; }
+  .actions { display: flex; gap: 8px; margin-top: 12px; }
+  .actions button { flex: 1; border: 0; border-radius: 10px; padding: 10px; font-size: 15px;
+                    font-weight: 600; color: #fff; cursor: pointer; }
+  .b-done { background: var(--done); } .b-mute { background: var(--mute); } .b-resume { background: var(--accent); }
+  .empty { color: var(--muted); text-align: center; padding: 28px 0; }
+  .quiet { color: var(--muted); font-size: 14px; }
+  .note { background: var(--card); border: 1px dashed var(--line); border-radius: 12px; padding: 10px 12px;
+          font-size: 13.5px; color: var(--muted); margin-top: 18px; }
+  .note a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Govt Exam Notifier</h1>
+    <p id="updated">Loading…</p>
+  </header>
+
+  <div class="stats">
+    <div class="stat"><b id="s-review">–</b><span>to review</span></div>
+    <div class="stat"><b id="s-new">–</b><span>new today</span></div>
+    <div class="stat"><b id="s-stopped">–</b><span>stopped</span></div>
+  </div>
+
+  <div class="tabs" role="group" aria-label="Filter">
+    <button data-tab="review" aria-pressed="true">To review</button>
+    <button data-tab="quiet" aria-pressed="false">No news</button>
+    <button data-tab="stopped" aria-pressed="false">Stopped</button>
+  </div>
+
+  <div id="list"></div>
+
+  <div class="note">
+    <b>Done / Mute</b> opens a ready email to yourself - just send it. It takes effect at the next
+    daily run (~9:00 IST), or right away if you tap
+    <a id="runlink" href="#" target="_blank" rel="noopener">Run workflow</a>.
+    Always confirm dates on the official exam website.
+    <br><a href="#" id="change-email">Change my email</a>
+  </div>
+</main>
+
+<script>
+(function () {
+  var TAB_KEY = "gen.tab", EMAIL_KEY = "gen.email", PENDING_KEY = "gen.pending";
+  var store = {
+    get: function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } },
+    set: function (k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+  };
+  var pending = {};
+  try { pending = JSON.parse(store.get(PENDING_KEY) || "{}"); } catch (e) {}
+  var tab = store.get(TAB_KEY) || "review";
+  var data = null;
+
+  // Link to this repo's Actions page (Pages URL is <owner>.github.io/<repo>/).
+  var owner = location.hostname.split(".")[0];
+  var repo = location.pathname.split("/").filter(Boolean)[0] || "";
+  document.getElementById("runlink").href = repo
+    ? "https://github.com/" + owner + "/" + repo + "/actions/workflows/daily-check.yml"
+    : "https://github.com";
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function fmtDate(iso) {
+    if (!iso) return "";
+    var d = new Date(iso);
+    return isNaN(d) ? "" : d.toLocaleDateString("en-IN", { day: "numeric", month: "short", timeZone: "Asia/Kolkata" });
+  }
+  function ago(iso) {
+    if (!iso) return "never";
+    var mins = Math.round((Date.now() - new Date(iso)) / 60000);
+    if (mins < 60) return mins + " min ago";
+    if (mins < 60 * 24) return Math.round(mins / 60) + " h ago";
+    return Math.round(mins / 1440) + " days ago";
+  }
+
+  function askEmail(force) {
+    var email = store.get(EMAIL_KEY);
+    if (!email || force) {
+      email = prompt("Your Gmail address (the one the notifier sends from). Saved only on this phone.", email || "");
+      if (!email) return null;
+      email = email.trim();
+      store.set(EMAIL_KEY, email);
+    }
+    return email;
+  }
+
+  function command(action, name) {
+    var email = askEmail(false);
+    if (!email) return;
+    pending[name] = action;
+    store.set(PENDING_KEY, JSON.stringify(pending));
+    location.href = "mailto:" + encodeURIComponent(email) +
+      "?subject=" + encodeURIComponent(action + ": " + name) +
+      "&body=" + encodeURIComponent("Just press send.");
+    render();
+  }
+
+  function card(exam) {
+    var p = pending[exam.name];
+    var newCount = exam.items.filter(function (i) { return i.new; }).length;
+    var head = '<h2>' + esc(exam.name);
+    if (p) head += ' <span class="badge pending">' + esc(p) + ' sent - applies next run</span>';
+    else if (exam.status !== "active") head += ' <span class="badge stopped">' + esc(exam.status) + '</span>';
+    else if (newCount) head += ' <span class="badge">' + newCount + ' NEW</span>';
+    head += '</h2>';
+
+    var items = exam.items.slice(0, 5).map(function (i) {
+      var meta = [esc(i.source), fmtDate(i.published)].filter(Boolean).join(" · ");
+      return '<li>' + (i.new ? '<span class="newtag">NEW</span>' : '') +
+        '<a href="' + esc(i.link) + '" target="_blank" rel="noopener">' + esc(i.title) + '</a>' +
+        '<small>' + meta + '</small></li>';
+    }).join("");
+    var list = items ? '<ul>' + items + '</ul>' : '<p class="quiet">No news in the last 45 days.</p>';
+
+    var n = esc(exam.name);
+    var btns = exam.status === "active"
+      ? '<button class="b-done" data-act="DONE" data-name="' + n + '">Done</button>' +
+        '<button class="b-mute" data-act="MUTE" data-name="' + n + '">Mute</button>'
+      : '<button class="b-resume" data-act="RESUME" data-name="' + n + '">Resume</button>';
+    return '<div class="card">' + head + list + '<div class="actions">' + btns + '</div></div>';
+  }
+
+  function render() {
+    if (!data) return;
+    var active = data.exams.filter(function (e) { return e.status === "active"; });
+    var review = active.filter(function (e) { return e.items.length; })
+      .sort(function (a, b) {
+        return b.items.filter(function (i) { return i.new; }).length -
+               a.items.filter(function (i) { return i.new; }).length;
+      });
+    var quiet = active.filter(function (e) { return !e.items.length; });
+    var stopped = data.exams.filter(function (e) { return e.status !== "active"; });
+    var newToday = review.reduce(function (n, e) {
+      return n + e.items.filter(function (i) { return i.new; }).length;
+    }, 0);
+
+    document.getElementById("updated").textContent = "Updated " + ago(data.last_run_utc) +
+      " · tracking " + data.exams.length + " exams";
+    document.getElementById("s-review").textContent = review.length;
+    document.getElementById("s-new").textContent = newToday;
+    document.getElementById("s-stopped").textContent = stopped.length;
+
+    var rows = { review: review, quiet: quiet, stopped: stopped }[tab] || review;
+    var emptyMsg = { review: "Nothing to review right now.", quiet: "Every exam has recent news.",
+                     stopped: "You haven't stopped any exams yet." }[tab];
+    document.getElementById("list").innerHTML = rows.length
+      ? rows.map(card).join("") : '<p class="empty">' + emptyMsg + '</p>';
+
+    document.querySelectorAll(".tabs button").forEach(function (b) {
+      b.setAttribute("aria-pressed", String(b.dataset.tab === tab));
+    });
+  }
+
+  document.querySelector(".tabs").addEventListener("click", function (e) {
+    var b = e.target.closest("button"); if (!b) return;
+    tab = b.dataset.tab; store.set(TAB_KEY, tab); render();
+  });
+  document.getElementById("list").addEventListener("click", function (e) {
+    var b = e.target.closest("button[data-act]"); if (!b) return;
+    command(b.dataset.act, b.dataset.name);
+  });
+  document.getElementById("change-email").addEventListener("click", function (e) {
+    e.preventDefault(); askEmail(true);
+  });
+
+  fetch("data.json", { cache: "no-store" })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (d) {
+      data = d;
+      // A pending tap is resolved once the server-side status reflects it.
+      data.exams.forEach(function (e) {
+        var p = pending[e.name];
+        if (p && ((p === "RESUME") === (e.status === "active"))) delete pending[e.name];
+      });
+      store.set(PENDING_KEY, JSON.stringify(pending));
+      render();
+    })
+    .catch(function () {
+      document.getElementById("updated").textContent = "Could not load data - try again later.";
+    });
+})();
+</script>
+</body>
+</html>

@@ -36,3 +36,14 @@ Done/Mute emails (IMAP). Only emails sent from `EMAIL_ADDRESS` or
 
 Edit `config/queries.json`: each entry has a `name` (shown in the email and
 used for Done/Mute) and a Google News `query`.
+
+## Website (dashboard)
+
+Every run also publishes a phone-friendly page with all exams, headlines
+and Done / Mute / Resume buttons:
+`https://himanishvyas.github.io/government-exam-notify-/`
+
+To turn it on (one time): the repo must be public (or on GitHub Pro), then
+Settings -> Pages -> Source: **GitHub Actions**, and run the workflow once.
+Your email address is never put on the page - the first time you tap Done
+or Mute it asks for it and remembers it on your phone only.
