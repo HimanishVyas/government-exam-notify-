@@ -798,9 +798,23 @@
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR1l2RUVUWWNUeHg3WTVBOEs0WTBsSS1rWEFvT0pMNkE1MVhwMEtINkE4V0lORGFKMmVIMFlYdWdDVFZ6QlVPcDBZTVB0Yl92c2RfTGNxUm9JY0FTMEItU1dFSmZELWVNNEQ5Vi1fclNYbFR4M3FuNnNTWmY1aDdtTDk5YllMQXpnQ2pJUXo5aXZnT2haTTBBY1U2djlrQWR0V0VIcVNWRUpackJDZHMzTjBGYjUwNUdOVWlMYUdzVEVybkJKMGtBLTlJMzlSNm9FaU1QSUJNVTlKdw?oc=5",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTjVlS2N3aUxyYW1rMEpnN0I0enAzbmtxUERGX0FmcFNhSmNLQ216MWZURmY2dlV0S2FnYzZvNERCS0d1dkRGcnJWdFEtN01lODFuUTJzZkhnUTJBMHlKQzNpN21QWkR1Q09BbWNHbG5aTjQzd01oQXUzTjVUTnlrejEyWVN5Nlp2b0pSN2I0S1JBOWFGY1E3Y0RwTFhxeFhUUEFwQ3ZjRkVGZVljR2NFdnpSRDVhZms5bkROX0lrYkE0NXlsVnl5WFdJQVBNRzJXTDJ6QlFEWFoyMW1WTUptTzZzWURzT1pKcThLcllkX2gyQm8?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV1Q5dWJtVk5iQjN5X1pLNm5hWTB0amRvaVFfZ2d3LUo3MU1jRDFLTVNWNHJyb2pickExVTZxd0hLT1R5dEtiNUNGaVhaZkNDbGF1MG1SODQ1bE9GbHFSQjVlWFFUMjR4ZnVTbXFRRDFqNTdqSktLc1J4SEd2V2lRVHQtbWk3NTJBTUtn?oc=5",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvYTlieWF3V1otSXJ2eFYtdWhoVUNEc1JiVnNoU3pFUW9Wa1YtQTU0TFp0U3FnbmdvVGpiTjZNNlpaZUhGRFAyOXRwRlR1VEg2ODFZWFBuaHlsVVB3OWFZeTlR?oc=5"
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvYTlieWF3V1otSXJ2eFYtdWhoVUNEc1JiVnNoU3pFUW9Wa1YtQTU0TFp0U3FnbmdvVGpiTjZNNlpaZUhGRFAyOXRwRlR1VEg2ODFZWFBuaHlsVVB3OWFZeTlR?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kc0k0RFpIbFhQRHI5WGlZSjFqbXIwUWVqOVFUZ09WWWRLUnlWekMxNE9oZkhCYlpRd2RGdWpuRE11dFNuNmpHZWxQSnM1MWRFNndUSkpScHJRLWpBQVNzdnRHdXhzekpLVF8w?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEE0UjVmUlpJUEhrbVRYZzRGUWQ2RjFMOVRpT2FXZThZMGlnbFZ4MmV6OUZQd0dJX1JNb1ozeFZlME13N2psYXJTQmVseWhsc09adVM4OFR2TDAxN0ktdG12UjhfZFNmZ0w2MF9KcmxTMEhLd0VhVGdEV0UwX28tbFN6S2RHa25NUlNoR3UyMk5HeDlWYzN0MmRZTzZESmV6NnhwejZJTDVzV0poMF85V3Zzd2ZzM01JNmpHTkExbnF0VEppLUpsWEVwNHM?oc=5",
+    "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYThUQ3lqa2hyRGQ2QTV2MVlUNzZCdTg3QzN0M0R5bTNuVUJfYko5S2xxdXp0Tkh0dGpGMndqVUp0ck1HYlQwa2FpYnFuS2ZkSEZZeFJBMm1yVjdxYzFFbXFBdHFaZGpweTc0NDhHNm5LQ2FuN2J4NTh1U3RSeTEyTEhTUmwyS1VueURSQ0dOYUc4MVBxS0hlUzAtNjU4cnRvRHI1cXpEUl9XTDlMdFRTaDhwRWxsYmd6TDA3dlN2djJiT2ItLTBub0xSaTNWYUJtY2MxX2lJYWt2dlU?oc=5",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdGQzajFOaTc3UktoclRfUUEwYUhFU0YzSURkeDNySGJCNnpZa3VGNjVUVVpuVVlEUlBWOUFRUmFLM2lkeFBKcFZUdS03Y0cyU0xMSkJmZEk5NGhoaTJJWGlkMV9IRHR0QllVLWRJOGJsUjd2RGFKSk56Ti11MjVlbFpjME9yYTFEZDl1cEVsM1RTM0gwQ0NwWGVtdzFyNGg0cnRUWDd6ZTYtN0JrX1NTREtzU3JNSHZxaHRBa1BTSnJlcUtLN3RhcmwxTm1sWEtzajB0Qjk1dy1HcUlZNXllV3J5TUw0d3RTQUJ2emRrTGFScXZyYVd2OA?oc=5",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcjJOVjRLbnR4aWVxRzN1ZlMxN1lPdXM4TWx4Nkx3Rm9jNlEtTS1wOEZVOUlRVHppcU9sblZiVzFVTkdtTWVTQXEzdU95N0FxdmFuV2h0dkNBRTV3U2JDT05WRDlUTmEyYWlaU3laMVVuY0JWSHlvS2stY1g2X1I0emhjNEFlYUk5eUpUclhnbUEzRzE0RzluVUlyVG9pSVNlVWFkcVVnZGZnXy1LQ05uRnpYeTE2Q1QtdzdXLTFWbUxrV0pqemdpOHJ6b0M2cTNHQUdCUUZCTlJCSmJNYUxXMExQRmJ2d0Z6WUlRY1BkTGxfSXc?oc=5",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcjZxNWk1VjBQVWJYM0RpMERPSjNlWTVNTlBQRWJwaVBYVWdxblBkX3oyTlQ3N05oMFdtNzB4aTBUU0J0Z3pjQktvenFueEhuMTZBX1RsOXZab2JOUDZfX2RaTWV3NEZlWXNaaW9hdDhVMXp2OV81RUtlUlZlZC1PaG1KSVRENzAzcmdJWWhOcHkwMFhOM1NoSFp3T2F0T211cmoxWGMxWV9PZUdwNGM3RWJLRzB3dDc3QkNXQmt2Tk9BMV9mdzBvWkVyWEhnSVdWdVlOcDVFeUxLYkdCdlhyaWF3Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE02cGdHUGlHaTZHZDFqLVB6M0NqN2hkUDNBbnFpTjFPM19GMTA2QkNxc2NtVHFJejA3d2JJUWdLdHBidEpPYjNZU1lQVTBfWUt0c2EtdmxDR0hzV0RqVXdVMWttUmQ2am8wdTM0V19EZ0Y?oc=5",
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMLURscUticU1SbmNLRkpTbmNpN0IwTjJ1bkNtQnprOEhodG1XLWlMY21mUkNrNnlBeEJjUTFmQ0dlOTlwdjFCYkJMRC1pRTdtZXFrczROVnJXVk5qT1BQX2UwazJHZ1Y3?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrZ01IVk5GVzhTTFMyQ2tsRUM1YzZxckNCS1UtVVo3LXd2RWduSW1zbElaQjlmTTVpT2paa2dialJXbm5uSFI5d2FlWV9ZelltRHJqaTVFeFljcmIxU0g3UTBrNXZrUkwzNlloelhKNHVHS3RJVVhRWXhEbXg?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE9may03TFFqZW9hVzd4emNhU2tial9hdEhqSmJBd0JyRmJhRzhaa1JUUDNaVDZKT1NmdV8xdEk3Vi1zZDZ4dXpHUTNGdG5nWFVteXotcHdBNHVBbVFfNEkzXy1pa1lCbFNFdDZDekZPaXJQT1ctRHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tNkdhbGtxTnhSSzJTaUlPODA5bVRoWGt0TG1keUNvSDdGRUlwLW9GVUJVZnVrX3VYd3pmV2c2SFlYVXhmdlNZcmdoblNjZU96OVVoWWZUd0V6NTlRQmxySTBuNlJyRHhsQkE?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORENDVzI3ZEpmODltVk9wOFBfeDlpdHhrZ1dGUnZwMFNabmtLYTRHSGNDNXMxajRnaFd3YVJuSjhieUxHbzFRa2pab0M3N1VDSnAtM3R4aTc5a0lORHJYbGxmdXN6LTJ2dDFXU0dHSDd3ejZFNW5XWDNXUFlncm5EUzBTRlRkb1N0?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OZzJfM01hZklYMjlxZ3JuRXNiX3VpUUFrRkh6aEsxNUdNZ05fRUJkODM3OWNYbndWQmtZbXM3UWMzRFk3bHhJQlVpaFJGWVBrLWlZS3l1RzY4MmpJdDcwVW8yMGNFSjZSM201aWl0eTl6WnBLTHpfaw?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGppemNMdkZuRWlwMWtBZS1KOV9nYThFdDVVcTZXd3ktd1BodUdia2ItV2h4VURZOGtqSVo2ZkRTQVFMUVBfU1pneWk5VkJZN0NRbG1jTUpycTRDaUE4R2dPWWFuajFBMzU4Q1gxaklFU3lMay1Eek1lY0EzNEVKbHN4akUzV2F2Skd2MzY1anVGMFNqWjZlaVhtOHdpM1hoY2Q1VGhNQld3VVNqSV9OMA?oc=5"
   ],
-  "last_run_utc": "2026-10-16T08:27:24.164671+00:00",
+  "last_run_utc": "2026-10-17T08:00:05.885652+00:00",
   "exams": {
     "GPSC Computer Engineer": {
       "status": "active",
@@ -1220,6 +1234,13 @@
       "status": "active",
       "items": [
         {
+          "title": "ARCI Recruitment 2026 Notification Out, Apply Online for 29 Scientist, Officer, Technical Assistant & More Vacancies - Adda247",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02cGdHUGlHaTZHZDFqLVB6M0NqN2hkUDNBbnFpTjFPM19GMTA2QkNxc2NtVHFJejA3d2JJUWdLdHBidEpPYjNZU1lQVTBfWUt0c2EtdmxDR0hzV0RqVXdVMWttUmQ2am8wdTM0V19EZ0Y?oc=5",
+          "source": "Adda247",
+          "published": "2026-10-16T10:25:34+00:00",
+          "first_seen": "2026-10-17T08:00:05.885652+00:00"
+        },
+        {
           "title": "PSSSB JE Recruitment 2026 Out, Application Reopened for 262 Junior Engineer Vacancies - Adda247",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56YjBzMllPVWY1UFhrb3NVOGVBUGVMMGxHbnd5b1IzTjhXczN1NG1HdXJJclV6NnR3NGdTUVRxLUxBeWxpX05WNVZ1U0Z4ZnBNdEdQdUdlNWRZQl9aZnljbms0bVdoalpRZEtVSGZ4N2QyTTNLSEE?oc=5",
           "source": "Adda247",
@@ -1351,13 +1372,6 @@
           "source": "Careers360",
           "published": "2026-10-02T06:52:16+00:00",
           "first_seen": "2026-10-02T10:00:31.308360+00:00"
-        },
-        {
-          "title": "SSC JE Exam Date 2026 Out, Check Paper I Exam Schedule & Official Notice Here - Adda247",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GVzRVa2szY21CeG5fS1VpWmhTV3h3VmEzcmJ0OXFZWEU0c3U5eXkxWjZ1b0FmMU5RalZmS0oxSExxT2U1MHJLWXRfa3pLYjQtQUVpMUhVMWRHU0pPOFNZTUZudTk4VG41cUpUME1xZmt0UkduaVpDLUJB?oc=5",
-          "source": "Adda247",
-          "published": "2026-09-02T13:32:04+00:00",
-          "first_seen": "2026-10-02T10:00:31.308360+00:00"
         }
       ]
     },
@@ -1400,13 +1414,6 @@
           "first_seen": "2026-09-27T12:30:21.487509+00:00"
         },
         {
-          "title": "IBPS SO Technical Officer Recruitment 2026, Check Vacancies & Important Dates - PW",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXSXVlbmNWRGdOZWJ3VHFNTUdRMWtGdmNKOTRsVkhsd1JsVEZoQzhZejBpd0UxTnVpeE1mRnc3dzRXX0tEMWpFbWdURnFfQ3RiNGNIU2l3MmFUZkxqUDB5a0xNenNyZEc5d2liOXkxNnZycmhXMGRvUWpqOUljQQ?oc=5",
-          "source": "PW",
-          "published": "2026-09-02T07:00:00+00:00",
-          "first_seen": "2026-09-27T12:30:21.487509+00:00"
-        },
-        {
           "title": "IBPS SO 2026 - Exam Dates (Out), Notification, Registration, Syllabus, Pattern, Admit card - Careers360",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PNGNjcUZaeWtFRVNPVEhlbmx6X29jWUJjaDBDTEp3UmhGYjJRRUVLc25xbTdqUXdoTnNtb3lncDYxRFZxcm4wclVZT2VJWXY2aW1fMXZ3Z25qdHQ4S1BFNUItZjlFX0E?oc=5",
           "source": "Careers360",
@@ -1426,19 +1433,19 @@
           "source": "Adda247",
           "published": "2026-09-23T07:00:00+00:00",
           "first_seen": "2026-09-27T12:30:21.487509+00:00"
-        },
-        {
-          "title": "IBPS SO Mains Admit Card 2026, Check Download Link and Exam Day Guidelines - Adda247",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjUVB5MTZxcmVQT2s1c1YwZHJid2NjbmVLTjVaMEdlNWlnOTlBOXQwZXhKOEN5enU0TV9xMDNxT1FOR3pRVE11ZEQyTW4tdVJDWEVKZXJtYjA0WnFBWndRWmk3aVNkVmltbWlR?oc=5",
-          "source": "Adda247",
-          "published": "2026-09-02T07:00:00+00:00",
-          "first_seen": "2026-09-27T12:30:21.487509+00:00"
         }
       ]
     },
     "IBPS PO": {
       "status": "active",
       "items": [
+        {
+          "title": "UCO Bank Apprentice Recruitment 2026 Notification Out for 530 Vacancy, Apply Online Starts - Adda247",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrZ01IVk5GVzhTTFMyQ2tsRUM1YzZxckNCS1UtVVo3LXd2RWduSW1zbElaQjlmTTVpT2paa2dialJXbm5uSFI5d2FlWV9ZelltRHJqaTVFeFljcmIxU0g3UTBrNXZrUkwzNlloelhKNHVHS3RJVVhRWXhEbXg?oc=5",
+          "source": "Adda247",
+          "published": "2026-10-15T07:00:00+00:00",
+          "first_seen": "2026-10-17T08:00:05.885652+00:00"
+        },
         {
           "title": "SBI PO Mains Result 2026 Out @sbi.bank.in, 4367 Candidates Qualified for Interview - Adda247",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aOHFoS0JTWXFzaGplU1lEaGY5UE92OHg2dXlHOW1zSVFaNlVjZzV0TTBwZTh6eFM1UTIzYTBpYmtVVng5U0twX1hncnE4cUhOYm5sUnNDNmxPQTZ2YlFtbkhlNjJCbWgzeGVfQw?oc=5",
@@ -1510,13 +1517,6 @@
           "first_seen": "2026-10-01T10:24:46.074368+00:00"
         },
         {
-          "title": "IBPS RRB PO Vacancy 2026 Out for 4,256 Posts: Check State-wise & Category-wise Vacancy Details - PW",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LVU9sdmxNdHBwRjBhWHlNYjhITm9BM3ZOV3UzWlJoTUxSWlIybnBNdEZFektsSUoxN3doc25iMmlmUG16c3AzWTJCeUU3aXBJWWN4RVJWUm1Yc1NOZHFxeFBzb1dKekpVbkE?oc=5",
-          "source": "PW",
-          "published": "2026-09-02T07:00:00+00:00",
-          "first_seen": "2026-09-28T10:06:56.444792+00:00"
-        },
-        {
           "title": "IBPS PO prelims result still awaited — what a PO earns - indianpaycalculator.in",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUYwSldtSkw2NkZUYk1QVDltcFNvWDd0WFJIQk5jMTBTMXNkX0JlR09ZWmtkdGlNXy1pVjBnb1FKLVcxeEtNT19ueEd2RHJrUFhMT2p1WlhoWGludXRtbVkyTFdCajVVcVNwN2hGSkdxQVRBZ2h5MHpfSGNaUGxGOUFMR2t2dmFncERFemNFa2pzcDloaTlPQUQtQQ?oc=5",
           "source": "indianpaycalculator.in",
@@ -1584,6 +1584,13 @@
     "SBI PO / SO": {
       "status": "active",
       "items": [
+        {
+          "title": "Bank of Baroda SO Notification 2026, Last Date To Apply Extended - Bankersadda",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9may03TFFqZW9hVzd4emNhU2tial9hdEhqSmJBd0JyRmJhRzhaa1JUUDNaVDZKT1NmdV8xdEk3Vi1zZDZ4dXpHUTNGdG5nWFVteXotcHdBNHVBbVFfNEkzXy1pa1lCbFNFdDZDekZPaXJQT1ctRHc?oc=5",
+          "source": "Bankersadda",
+          "published": "2026-10-13T07:00:00+00:00",
+          "first_seen": "2026-10-17T08:00:05.885652+00:00"
+        },
         {
           "title": "IBPS Clerk Cut Off 2026, Expected State-wise Cut Off Marks - Adda247",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XU08xbDdfbzNtYlQ3V252VjV0UVNvUFNQek1KV0RSb3YyUVdhN2UxWGtEVkNLVVd4SE9GMllrUDNLMldvcnNlTmI3TDd3WWQwODE2TElBcEkxbGwz?oc=5",
@@ -1695,6 +1702,13 @@
       "status": "active",
       "items": [
         {
+          "title": "SCI Court Master Recruitment 2026 Notification Out for 20 Posts, Application Dates - Adda247",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tNkdhbGtxTnhSSzJTaUlPODA5bVRoWGt0TG1keUNvSDdGRUlwLW9GVUJVZnVrX3VYd3pmV2c2SFlYVXhmdlNZcmdoblNjZU96OVVoWWZUd0V6NTlRQmxySTBuNlJyRHhsQkE?oc=5",
+          "source": "Adda247",
+          "published": "2026-10-16T11:38:55+00:00",
+          "first_seen": "2026-10-17T08:00:05.885652+00:00"
+        },
+        {
           "title": "RBI Assistant Language Proficiency Test Exam Date 2026 Out, Check Guidelines For LPT - Adda247",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnNmFCWWt2SmszZHRBVGhEQzh5ZWxQRTI0RER6ZFEtV1RtLS1Lb0gzV3N3QnpqMUFkdzY1LUFQV0hrUlM5TnBMZUtTNE1ZalNVUEUyVzJCcWk2SENuWi1Ra3g5YVNKUG5NbF9ua2ZaYmZ6dG8zc3FIWQ?oc=5",
           "source": "Adda247",
@@ -1804,6 +1818,13 @@
     "RRB NTPC": {
       "status": "active",
       "items": [
+        {
+          "title": "RRB Section Controller Answer Key 2026 Out, Download CEN 03/2026 Response Sheet - Adda247",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORENDVzI3ZEpmODltVk9wOFBfeDlpdHhrZ1dGUnZwMFNabmtLYTRHSGNDNXMxajRnaFd3YVJuSjhieUxHbzFRa2pab0M3N1VDSnAtM3R4aTc5a0lORHJYbGxmdXN6LTJ2dDFXU0dHSDd3ejZFNW5XWDNXUFlncm5EUzBTRlRkb1N0?oc=5",
+          "source": "Adda247",
+          "published": "2026-10-16T09:36:29+00:00",
+          "first_seen": "2026-10-17T08:00:05.885652+00:00"
+        },
         {
           "title": "RRB NTPC UG Notification 2026: Applications open for 1688 posts, here’s how to apply - The Indian Express",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSEh4Z0JYbDVsRWtGWHBVQ1FqQnhNbWFHazdkQlA0cC1iWFgwZ2hSU2tuYVpGV3pISWVITlVQMHQyeEdXUUVpYl9LUFlINndfTWRzUVo4RndvRnJxR1JBM1hBcnk3emhRcEYtR1FQeDFhY3ZTaFNIYTB2cDdnbHhGcWlNTXlna1NvbVM2T1RhOEtqRm1jalppMnJ2YmZOSmJiSVRSdmp0NnRvMk01d2I4cE5NSm54c19KY1ZNNjlCOUdjaXJMbWJuc2xKdWRSU2dSMTNoOGhISDZEZ9IB4AFBVV95cUxPYXdXa1JVQjFYRDJQb2ZPY0RjdDNBcFFUcXpXZDctR1FEZXdxS1VtYlVOenFmZTVFcE42MnItUnRPOHBqVHBiREJRN1RqR0dmdVFjUThkYVBoNS1aRmw3eS1LbFRqTTJ6T3hoYkFXQUxuQlRQdWZCdXRSSU1zZWxQTG1BZmRidXRKSnFpNU8wUDdJMWVvQWRhVmdFOE5xTXBSQjNmbFlhcjNpdFBGZnBWUG0taVhrTnlOWnpXcFJXbVBweW5WRmtXaC1UeS03YkZ0V2t1SlF4RUdLZ2VQc3h6Sw?oc=5",
@@ -1936,19 +1957,19 @@
           "source": "PW",
           "published": "2026-10-13T06:25:13+00:00",
           "first_seen": "2026-10-14T08:59:00.545837+00:00"
-        },
-        {
-          "title": "RRB NTPC Recruitment 2026 Registration Ongoing; Apply for 3,548 graduate-level vacancies by Nov 6 - Shiksha.com",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORW1JWE82ZEtKMFBOaUdMc0J6M3VxQWs2RWNLRm9penpmalBzY0xRaExkbWd0QzBWSjZFVkJkRkRjZE5VZDVHUGNQSThaSWF6MlR3bV9oNHhmMk0tY29zVWtmUko2M3h1ald2dUU1UG9qRnE0QWs4WnJxb3ZFZkUwTXVFbDZaeHpmWURqNjhDWWUxbzVCYmxMTHEzVlp3Tm9sRHF2LXp6R2U2MFpnUk52dHl1a2ZBOTFtS1dmU0VfTVl2NTRuQnJ6NjhlQXZQZDFqWjlqdWl0UWRlZXNORXJETnhCOFRidF9t?oc=5",
-          "source": "Shiksha.com",
-          "published": "2026-10-12T10:51:46+00:00",
-          "first_seen": "2026-10-12T11:15:59.303496+00:00"
         }
       ]
     },
     "RRB JE": {
       "status": "active",
       "items": [
+        {
+          "title": "Railway JE CBT 1 City Intimation 2026 Out (Today), CEN 04/2026 Exam City & Shift - Career Power",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OZzJfM01hZklYMjlxZ3JuRXNiX3VpUUFrRkh6aEsxNUdNZ05fRUJkODM3OWNYbndWQmtZbXM3UWMzRFk3bHhJQlVpaFJGWVBrLWlZS3l1RzY4MmpJdDcwVW8yMGNFSjZSM201aWl0eTl6WnBLTHpfaw?oc=5",
+          "source": "Career Power",
+          "published": "2026-10-16T19:22:27+00:00",
+          "first_seen": "2026-10-17T08:00:05.885652+00:00"
+        },
         {
           "title": "RRB Pharmacist Recruitment 2026 Notification Out For 118 Posts, Apply Online Starts Today - Adda247",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qbnVSN25mVXBobnlmcmdoNUllNlVQaDFpVEpBSml3YUZHSW4zckdaRTlhcmJTY0JJa2JkTnZiWVE3MlJ2SHpOVk9sb1hKTHh5R2hYQ3BWR3hmRkdIUHRJaU5pb3dxeDZDbE9ldGNTLUZrQUxTNFRUUDh3?oc=5",
@@ -2259,19 +2280,19 @@
           "source": "Education Times",
           "published": "2026-09-23T10:23:00+00:00",
           "first_seen": "2026-09-27T12:30:21.487509+00:00"
-        },
-        {
-          "title": "DRDO JRF Recruitment 2026 Out, Check Interview Date, Eligibility and Apply Online Dates - adda247.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzbGtTVnZjNVBwZG4xZEJ0Z0hLaWJSQmxLcWt1UWpMbE5URGg1VWROblZEQTlhM1loQ3RKX3lIQmdDUG1XNXRlMWIzOEI5cUJndDVfbWdDTDEzdGlTV3ViMFp1VU9id3FRRFZPaVRhd0x0XzY0X1k1Tw?oc=5",
-          "source": "adda247.com",
-          "published": "2026-09-02T07:00:00+00:00",
-          "first_seen": "2026-09-27T12:30:21.487509+00:00"
         }
       ]
     },
     "UPSC (all)": {
       "status": "active",
       "items": [
+        {
+          "title": "UPSC NDA 2 Results 2026 Released: Download Merit List - Sakshi Education",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGppemNMdkZuRWlwMWtBZS1KOV9nYThFdDVVcTZXd3ktd1BodUdia2ItV2h4VURZOGtqSVo2ZkRTQVFMUVBfU1pneWk5VkJZN0NRbG1jTUpycTRDaUE4R2dPWWFuajFBMzU4Q1gxaklFU3lMay1Eek1lY0EzNEVKbHN4akUzV2F2Skd2MzY1anVGMFNqWjZlaVhtOHdpM1hoY2Q1VGhNQld3VVNqSV9OMA?oc=5",
+          "source": "Sakshi Education",
+          "published": "2026-10-12T11:19:17+00:00",
+          "first_seen": "2026-10-17T08:00:05.885652+00:00"
+        },
         {
           "title": "UPSC Recruitment 2026: 13 Specialist Government Posts Open, Apply by October 16 - www.nationpathindia.com",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYjM4bjhvWUsxMEVkd3B2ZjQ1Q3ZXYXU0NW05X1MydmVnbHZoZFBZTXMzQk52WkUyZmNYX2Ric1hrT0VkZDd5NERERklIOVJVeUZ1NjBKRFV6eTl1RTZTSGRGVmNCOGJPNG1SYWp1d3pxOThWazkxd1lUaUlfd3FBclBqLUVuWmJ4b0oyZw?oc=5",
@@ -2403,13 +2424,6 @@
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNnVyNTZsWnVmM1JaVEZsTFdhWnhJOEFyeHBDeTFtNUNCTUpVQmZCZEpmYzdWN1MwaS1oQ2pUTzVINmt0d1VHQy1Ham02Mk9oanZYSTl1cDVLRHlDczBieXFFZGdSUkJJR3FxYVVNeG1nRVpjZmNySEJHVnYtb214b2dEc19nRzhOaE10SHVsalhDdGp2cW5DRWxMVTBKVnZiaVZHQURBc0VKeDBIZlFnRVI1SXFOXzZyNnRVdWRHSEtiTjhSQ0FmSTM5Ny12THBsbmtWOThsX0tlTy1RMEJKTlVJWGTSAeoBQVVfeXFMUE5LRkxoSS1BM1QxYnBmVk13a1YtUV8wVkQzaF9wUy03aXEweVZLNUNob1ZLSXItR2R1WmsyYnZuMlNha2pYbjQ1TENWUExHQ0hBVU84NG9LZjg0YnFtRlduTWRKRXowa3loZGo5ejZIMzBVUXA1NUhId3pBa1M0ODZYMVpTU3oyNUVSZWRnM2pvUzE1ckpLNWlsSk05Z1Q4SUpoaWc4dEhudktlanM3MEVSZ0Fxb3Q3aTVyWTY2U01TNVF2YjFQVWJxd3YwM0ZrQzVxQWUwOE9ZV3UzV1RUT0d2R0xPZVZoX1Vn?oc=5",
           "source": "organiser.org",
           "published": "2026-09-12T07:00:00+00:00",
-          "first_seen": "2026-09-27T12:30:21.487509+00:00"
-        },
-        {
-          "title": "UPSC 2027, Exam Date, Vacancy, Eligibility, Exam Pattern - Vajiram & Ravi",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tcFVFM3pfZ1dvTDFOUFNPYjVKanRwZ25LdUhNNGNfMi1fQlQwR3VJVHF2bzk4Vnc1Y3pOWkJDNXQzeG94dVUydlkyWmtwRUNjVWJDa18tWWo4QzA?oc=5",
-          "source": "Vajiram & Ravi",
-          "published": "2026-09-08T07:00:00+00:00",
           "first_seen": "2026-09-27T12:30:21.487509+00:00"
         }
       ]
