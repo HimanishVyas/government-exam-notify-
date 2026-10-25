@@ -933,9 +933,42 @@
     "https://news.google.com/rss/articles/CBMitAJBVV95cUxQVm13MkhCRWhmWnNWWExmU2V0SGJ4RUlRbXFMLUF0LXktemdCYkdNUWdQd3VhV2tvOFJ3Y3NCazBUT0YzWWlWSExCWlY4WkZQUTVwdkFBcTBKZlFTTHhYWnd6c1dRcHRIY05qMVUtMlpaMXhneUJKdE5pWHFOVkExWE1MYVdtV284V0J2X2JtUEhGVDlVSFMwTjFoNGlwbzFiWDZmYkNjUmdWbEplRm1aTi15UUM4VWNyNFJBQUpZeVpnZ1NjQlppbWUtcGJuX1dCeUI3ZW0zZm1qYWhsN2FucUN0R2x3SkRNN09sRmNTWjZESU8tTzFQWktfOVE3X0NUNDRrR3otdEtDYVgzb2hYb3NHLUVkWjI2YVphZklrQkxubkFfTlhmOWIyYVBlbE82TWxFY9IBugJBVV95cUxPYW05dDR4cnh6RFE3aEFTbWJoRDF1OU9PdUx2NGhSR0Y5bkp0MlhJenE4WnIwYlp5NGU3bjJMc3ZGdi1MdElNZ1V5d285YUpVaWNDaUhycEdoNUctcGVTVVFJMHZ1R3B1UEg5UTJGRVA3ckJqWVBrblRDS2RJRlFNUzBJMnVfaWh6NFIzZmNhQmUwaUlxbkYtb3dWb1F2UTNFOFZPVU96NXBRWlBxNWktU0NidjJlVzh4TmMtT1NmWTc0bHNUYnpTcGhjUjVHX3hPc3hXS2xqRVFwVFlSNWRmbEpsQ0IxWjRuTE1UNGp6UE9ReldjZUFYZEZ4aXpFYVdQaktOeUhvcS16SldienlBbnpvTjI0Zkd1eUtFTVpfeGF6eVNJRWpOaW1GWl9NMlRQNDFjejFid0FXQQ?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeU1ONVlkeWZjRTBPV0I4Z1RCNUNGY1BFbUZ2Sl9UU2tHVkI4UmJzVk9ob29DeW82LUJTNTA1V3hYNmVZMXBYSUxLcE1iMmJKQlFJbldUdkJ0Szd2cVdRaXFJcThlVHFmMl84eDVqQm8xRWFVS2pnbzFnOGI5d1lPcDZzNGdYTDF1MnAwMzNxQlo3eUJleHhBR3BBYzlGM3B1NXVVNmhudDNFMWk3TGpFZndCb1RBLWPSAb8BQVVfeXFMUG9XYzRKWGNRN0FsSVlEME5Gbm4xSGFqWkY3UWJ6SHprWXhiVzNtS295dmNUU3hldjNlM1A2alk5cFQ2dGpxY1VMenRUblNkZXVZaFlsSGJDUHlYajB0TFMtM0lMdzVRNHRCQjVYUUJRR3NtLWM2cDJiaFlFcFR5VTlTRjNoVlVkcEpNUXF2SmRZSGJQV2VjcmJZQWxJQTFoNHhLWXZucWc5MU8zaU1Telhlb0szQUpCMDBsM2pFYU0?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNakgwem5tRmtUZU5GQ0NBek13QUkycTFteUJ4bHNnLWIyOFY3VXZjSElIUjZqSjlMSHhBZzRMX0VtVG5oVGszUTlxWmtGd2Rob2pXREg5NkdkRm85ai1hZ3QtSUZZZk5PSS1DWGlydUdwamNEVjNrbjBpSEpxWUtZS20wQTZwSXBIT3pBUGY1bmF6ZEdQRWc0SEdLUVpvRERpY3hfNlBYdTNtcHN1Y3JUakhB?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXSldIMFVCUjNlTE8wOVVFcnY4RVBsYXBxSUFaRG5TeF9fZHNzZEhFRmxYVjVTb2FaMUF4LWNLVUY5Y2licDJ0QXVqR041cEtlbWZnWDJSSVFDQklxMXFYQzlGaWpHNlNfVk91c2loMHNkQS1NbDVQX0ttUTRSQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXSldIMFVCUjNlTE8wOVVFcnY4RVBsYXBxSUFaRG5TeF9fZHNzZEhFRmxYVjVTb2FaMUF4LWNLVUY5Y2licDJ0QXVqR041cEtlbWZnWDJSSVFDQklxMXFYQzlGaWpHNlNfVk91c2loMHNkQS1NbDVQX0ttUTRSQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVzR5dlQ4VEljZG1IVGlFTTBQVmtfbVNvUTFtQlZ4elV0bU5xR3RYbW5JbzNyUmxzdU1aQlFKS0h5VFh3T1ZabTZMSS1mUTM1YzB3R2xHZFRhQTc3RV82eFpONjR1RTZLQlg0TGxjeWVLU085amQ4N0ROMU80dkk2SDk1M2tQS0dtdERodnptdWM3R2pQSzhpenYzakRodTJxRmVfOWNwUGdyUWNXLXRGSEkxbzVMZVJweV9tdjVTa18tazNMcVBrX0JqZThacFp1WW1xMDJnLVU4RDNLQk5tZHZPLTJhTGM?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc0dVczZNM3dZVF9pY2VacGRjWGdKZFRIUTgxRW1EWG8xcjNYemJtUlB1eVpuSHZIY2RqSEFaMW5YLVA2aEl5eXpidW9rdktUVHRjaWZabko3V1M4bEJkY19oZzJ6c2JsWWtvRExvTG1mODRicXByNllReHVwWjlFTDgwa1FwQnp4SEdjREotcW1Ma1FKNEpJc21CSVREVGZHWkhGQUo0aG1YeTNNV0liOWFOdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmFwS0FZR3VleWtNY0dZeVp4aThXTEY2Ti1Xd2dPd25UTTJNYXY3WFlLak9Bb0V5MVRHdm00T1c4ZXZtZnBkNjJjbEY2ODN2d25hZUdqX1dwNmpYSk9xV203aWdleTJ0N1N1MHA0czRTMUNWVXo3NHV1VFpQT2htREFxSWNlOVhPd2xwaG94a1BFY1JQcTV2QVQ5X2loMnVSUUtjbGMzeFFvamdlNmYyTFVwN19EQ1QybWpXQWF0VVN0emV0bTM0bC1B0gHQAUFVX3lxTE85Njdmc1hrbUhtd1I3cnd4VUNYQ19XaEFwTkMxMmZsazg2X2lSbDdSb3dHVXlibERRWFlDUU93WTRsNWptRGtOazNjck04cjlkV0RXWTllTnVZRkp3YkFZNkg3cHJOS3BZM3pOS3lWcFJxcEV5STNYeldMdWtaNGg0LUZ4ckNEQXZrZEVtOUN2RWlpRFdnVkY2Vm9McVRrNHNZOHdLSkFEZllYelk3S19sREc1VzZiSWgzQXdkNXZkbmUwdHhOV2dlRkZ2a0lZbkE?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE80RzZjYTBXRFRXRWd2TEU4elo1UlZpdV9zakxSUDcwY2UzLTFQQW5Kdi12RXc5UFdTZ09vdFhtTzlVQW5UMFpWVkRoVXlTc3JCY2k1ZFVrUkZjU3cwNFZDbHhoaDBIdHZsVDBpYUlobnFDMUg1ZWlJUzB3MkI?oc=5",
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iRkVLNXgyRGNySWYwMmtKREVFdUh5M3RMLWdZUnhucklJUWxYSDF6OUJQZ0NMNDBZRU5ObnBkaEFCY0tHN0ZGSVN2Qms?oc=5",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdFc0TUV0YTg5TlQ2U1NhRmxNc3N2R295QlJwUWZQaWxCY0FJTk1UTE5fU3lGd0Y2X1lYS08wYllDZmRFOXk4SmZWaHptLXpLRkJtNUQ1TEdEMkRHQ2VTbGRVR0lKVEN3dmdnTVpYZUlDMHp1ZDdvMDlaRkxlWjI0UjZuQVpmMFZFYjhTQkkwVGlZdXc0cTgyRmxSZDU2Mmpya1I3YWhmTF9fdTV1TmRxOGcyVm5hVVEtMFJ5SmtlUlJnWUVTUjVlR3l2UFRKMUQ3a1FNQjdJVkJrb0JiUDhMLVAtREw5bHdE0gHuAUFVX3lxTE5xcmpfWmp1SzNEY2h4cGNiSGZxRldXUW1jWFNRN2MzUS1tX1habXZTWlF1MHdFbUpfZWg4LWtyUFdhcHBZNjVPUDBHYUdHZ0dHUzlhNjlSbnFwVWI1SWJidVRYdGlZUFNSWlc4amVkWHZEYVpNVkp0U0dvYzhaRzF1dUtvUUNtd29oMVlQYjVzMjFfUURTdHZNVEVOZ1pVd0dHS3I1OXFPVndRNC1ha0ViOWZnN0Vnd3BpYTgtbWxnejlyNE1hZlM3ZFJ5ZTNjR3dqUnZhWTBaSkdFcHZhbmFEZDNjN2o4cHVQbng2aFE?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRnlIbTZpX042Wl95Y0lfa2gzZTViZjlEZTk0Y0Izd3ZDR2xOOEZhU0VIbmpucTJjenVzb1lTLWJzZXZSR0VSaHZGNDZlRWV4aHBZNDFvMEtaRGExS1lqQTNBQ2tjZ1Nwc2ZlRVVBOGk0TEduRUNseGd5cXdfNUtUdmE0NEVXeGhBdTJmTXhrQmsxYXFMQU1TajVXNGd1M0tsYjBjN2VxVU5DWjdHd3ZubGNVWDhTUVlWSXJrSHFuOEN0ZFNGcEFSNndxbndweldKMzVwUW55TGNyZVpl?oc=5",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT0ZQaWIwUTdTOEZGOTg1ZkxkVlRvTkhtWVNzaDY0Mi1fcEtFY2RBOUQxQ1ZrSHFRQklzdE41ZkY0Y1FPMElGeXk0M1Y3a1RTVmxaSy1EOUg1TmRYOGJYWmtlRDZSN3VlNTBQUWdaRmMwX193U0RobTFIc2luc3pZWnNveklWUkZ5Wkd1OENmSlFyX3RXUWd3a1U0aFQ4UkEtYWYyTzIwQnc0ZHluNGIxMjIza0hPRFJiZ0VDOHRJZEEydDBMY2p4SUx1WGJSa3ZicXF1V1hQWF9PRDlNZEJ1eGpxbw?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rY1c4YmdHUkVhc01jYXZSeVJpdEFhUndSenNrV0xCYjVhRFZVbVlsdlNpY2k0TFhnTTBzN3UxaFRuLUFQQVNVSVoteU8xYkVhYTZ3cE9n?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaWRqTDNOUHNjYnZma3ZDNzRadGRMQ294RFE0dVRLR0dkYjZ6eVB0b0Zwc3JFNEJHRENLay1KSzQ0dUEwVzBkODdhSnYtbWpPcnBUUHJlSUVoYWJPalBwSkpGUHFISkpWenFTWjRFME11aDRoVncxMFNUSFJBRF9rRFRn?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPanFIZzNoU01jY2NzS1VaSDJWVkxjU0xGc1RvamMyX195NWFxX1BtUzRWMlpGZ2tnRkVvSWRNR1dSN3drRks1ekZYa080Qkdtamt5a3FrNUJwTWk0eFQxNElWdWV5UUF5ZzdkUVFLM3VmeEJBTFZudlpaSDV0a2VKeVNqUzFkSlBtbTZVanVjTFlNVnc0LWVrQk9STm5ERDBzN3RqRVpMV1Z5UTVUUlZVYWloOE9qbEU3d2NNaWd0NU8xOGxtdVg3bmVLRmhZUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUlFZmYtSkowZ1J6czYxWmZqTDB6cWVDSFVPSG5rT1BuZFFDc3Jzdlc4WnVSZUU1dkQ0NW1rZkMwSkJHOFd2V3ctTGpUMk5XR0Q2MDBXWEhvaEdkVml5VmxGNkZIN3VPb09yUXIyaHhlZ2xxOW96T1lnVWxJb0RmY2JVMTJWT0VWdmJZVzRwMVpWZi05Z3hvR3BMb1ZMa3U2?oc=5",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNURzYWExbUxBNmRXdVRtRzkzaGhnSV85X2d1N3dkTVNPZTUtcjNGZDZqSUlpcUpCOUM0dlY2ZVk5azR1ZUhsYlZ0QTZNZ0pHQldkLUxsZWNxSVItTkk5N240aTVFZzJhWEhVTlB6YlhuSXVmb1NhcDFRTXhKc3lmR3ZJcm4ycGJNRkxxeGdJdlR6Q1RIWVBwdVVCVVIxNjBtRjVsWUpydEtuSU5hV2NxdG1sUmNTM0kwOXFRMkFLSkhvOGVHOEhILVVJdVdQZmhEMnhCWnVIVVY4bkhDeE5EQzhUZ00xeFlxejZPS0Rn0gH2AUFVX3lxTE4zb0RRUFFjRXB1Q0xYSGFnd3NyYXp0LVZQTkgzQ1Q4LTU0Nkw2RlhOQnktMWNhR25GUmtFa3dqSDR0WG9Pd3J4d3o4X3luR3ZfQkFtWGI3ZWlHRE5oUUZZTWo3M1FLa0xIaDRtS25qYlBkZnk4Smt4UUI3bC1QR0cyOHVyRkhxNVRrMThMZWR2LXRhVzlDTHJZdFdBYTJOQzk3OUwyMjFRUnlvVTd2R3poREtZbFc4cXF1SnNyUTBSQ2dvcDd3VkQ0eUFoakg1UnRuVFdta0tNTjltb1ZSLWtZaDNHYnpNNjVfaUJvRWVkblBUNFBBUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY21Rd2hVblJIbl9LM3BMTWhaUDFOTjVtSFZkUUNSWkNoUUhjOFlqZ1JwZHNHem9uVWhudVc5YkY3N3hURURzN0RNSVp1TFh4VG91NXJraWxmYi1mak5sbEJ5R1l2T3F3TXZlRTdFb3NjN1FQWVFfTVZIT2tLVUs3Ylptc2NFRkc2QXZzMUNtclB5U0haTEozdnpjY1lvUXZCN0FUQTRpaG1HcmI0Y3pyX1BmUThKaUlFWEw1VkZGQ1pCVDVpcWdnSFRkYjQyT0hVYnd2c3Bua3NVZm1Ta1gzVHFZQnFDU285eHZpX0ZB0gHzAUFVX3lxTE9CSWJhNEg2R0lLemo3dHVoV25ac0tpNV9YZHJQRWpUSVItbkc3cWo4N1N5anFCSFJPUHc1VnRXZkN1VGxTUjhpYjhQMjNCd2tkS2lCWDRqNTFmUVdyVGVDRTQtMjVNVkVYbEZKZm11OG9qS3h1RkZPX0NrZF9SOU9NNlhzRHdiWFo0QzN2dXpQNGdaNkh0NWVXbTZpejE0WHZIdk5KVDRtdGRXcy1TbjVWOUdaUk55WUZkd3JGZ3FaV3B0SkszSElzbGt4X2VTc3VXQVZvYXhqX1ZWeEVGS0Q4eEVDcmJPOVk5NE1RMENqMWRBTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1bXZSSms0ay15b1A3VERTbzRoTE53aXRWZzN6MVZZbFBsTDRBeHBjMWNuTzlfSE9uWHB1UUFULW94SE1yUko1Z0QzYzFNRFRmcEg1d24zVmJrZEN0bnBlUzRCdzk?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YYVp3SXBRVWRqUmF5N1B6R1gwand1R3M1SmFXWGF5WE42MEZGZUE1emZJQ3Azbk52U21Bbk5CWTJJWVpTbFR0U0lXTDlLenFtaEN3VE9UODNvcEMzSjY0?oc=5",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaGNUSTZ3TVR3T1ZxdTBETHo1SW9mN21qVWRBTmppU3E4Y2Y2cVYwQVJwVDgzYmI0YmlhZ1ZBd1BfcHhJenVHQlBHejZDQjExcDZwZmhSb3pYLTJJ?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVRhdUhfRWprY0N1dUdxdVAzeVpKYWZrdGhFbkFaMFJrSXlBUHZ4eFhTZzg0NUxFUGR1ZUN0UzJscW1qZ0hmYncycGJRbkMyOFB1b3dIcFV2cGRCT3FhOFFtQkxVdHAyVTctbEFiY0kxR2VUUVJRQ01SZWhla0g5SlFNSjg?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWWxJS1RMa0M2NHMxMkh0bHpkcnQtUFRxTmx0d01lMFdOcTdueDQ5NzdZenZ6RkNjY3MxR1VfUHlQbEVYTUV6VXZWc2hLUW5XVFVabUZjQnMwX19qU00xQ3UyLTd6VzhmNnJKSUQwQmYzelpEWnhaRllPU0xKeVZNYXFzRnBVYUwwbjgyQWlJVlhRSXNYajJpUkhSMVIyTU1ZSU13THg0SXg0VjlPdFRaZC1FZllzMTdkUjlfc1FPN1l1VVBINldnQ29DU2Q5LTF6djdTcg?oc=5",
+    "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWZllVa3o3d0lIMXd5T3VWUERnSDgzanJVQnRfMlVZX2xDT0NWODhkeVJoNFhvRXhOeUhaS1dRbllGZzNTUXUwQ2RSa1Z2alFKdEpQYXhvNUl3ZDJlM1B6bUREc0ZkZm5WWVZN?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUZoRkg3TXJWRWlmNGpUSWhCbkJvTXBlQ2g2dHZYQkt3Y2NNWHU2dXlNZ1NJbFpScVBabDFzYi1ScGwtZ3VQTGJlTU5jLWNERnNYUjNBOXpVWHBZYVNQV2lHTVM2bjBGdXU4b0hnZHVrX1JSbzZtZGtPSWI3bGFHSmJITFZ6TGZSNlpkLWVSQlJoTTViby1aTm9EbFg1QUhVb0taT1lma2dKa0U4VlV5eDQwWVBWeFN3akhUSU5XS3NRcDBr0gHEAUFVX3lxTE9VRmhGSDdNclZFaWY0alRJaEJuQm9NcGVDaDZ0dlhCS3djY01YdTZ1eU1nU0lsWlJxUFpsMXNiLVJwbC1ndVBMYmVNTmMtY0RGc1hSM0E5elVYcFlhU1BXaUdNUzZuMEZ1dThvSGdkdWtfUlJvNm1ka09JYjdsYUdKYkhMVnpMZlI2WmQtZVJCUmhNNWJvLVpOb0RsWDVBSFVvS1pPWWZrZ0prRThWVXl4NDBZUFZ4U3dqSFRJTldLc1FwMGs?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNc2xuenBRTEVCWGNsUVE0a09iYmJTRXRTT2RDaDhwR1kya3Fld0l2aF9uazNxdnJ0eTFZMkJzckxtQXE4MHlsNnhuR29Eb2t5c29mQ3hpa1VhNWlOcnlzeTFjM1dmXzFQTjZpbGt4X19tNW40bk1wNjd1OVA?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TbWZLMXFUVUtfTlZSQW81Y1N1QlRISjNyWHNIMldadjBWLTVFVjMxeExoT1dhV3YtcWlDUk5DVm1HeFpSd29lRTd1bXVtX2dVZ0ZqUjRieWlNWVJGbUp5aHlROHd5dTZnR0o2TGdNbGh2UXk2UEYxNw?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWZMaG5sbjhJdGpFQV9SRm11TTk4Uk5hb0E2alhPVXhRUHRXdUlmb19LdFp0eDk3Ymg0bDl2b3NFdF9xNUpvS01vUUZwN1VOd2ZPaUd2QzhzblNLdEhPNkpMVExxZk93MlJiVXA1T2xYX3drcHRsREJRU0phMXVmRzRJTnNCclB2T3NHdy0yV1J0YmFFWFJBRTVXZnpNemo5NXRiS251bXNuc3RueGNTV0QxUDk3YTZpLVVOY09XM1gtZlc5RjBUY1hLMkLSAdIBQVVfeXFMTUJhSFMyY19SREdGa0Exd01QUjdTNmRxak80ay1iVVd2WWFlRTlZV0FaaVlqZ1V6Q2hLeEFkSldGNDA4YWxZU0loYVpUbGZ6WHdPUHBjeXprTWFqQS13bGlTekIwaUxkR3hJY0htd254WDhteUtsa3l6VXdTRFlURHVsR0ptdUJGTmRZZWJfRjlvTU9hdDJOOEg0a201TloweEw2ZzdxSlFiM1FMSkRyeVMxOWQ4UzkyVnoxbVRuX3R5R2YwMEd6R0doalV0WEpqQ0RR?oc=5",
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxNV2UteVR4MnQ5OGlTOXJsQnhSbEJUY0RlMVFvQUVRRnpSeEpaczVYdkZYb0ZCZ2o4aTBGNzM3VmNMZU13Mmh5dU9FRzNPbXFmRUJvemRrZC1xdU5IOHdJbWNnTkV0Q2gtSnhVTndZMzRlMzh3SFRHM3VsVl9HVUktOE9NSFJ6WVZ4aHE5NWltYzZZYVJHWUdCTWg5bmNoYnJHU1gyY2VXRXBJQnp6eGo2T0NvMEVQSXNuOFJsMFBJUWlVc2Q4bFdPbF9oUHdGSm8wM2V6eW9FQUxKWUZ6YWlZVzRJZkFCWkZDN2U0ajktQ3VYZUV0SUU3UnZjQ0pEaW9TejQ3cExhX3Q1OUhDUlRR0gGUAkFVX3lxTE1xM0lReXVUZDhPQXBmb1hZZFZ4MGdlVEVDQWRQdkFlYlB0WUdtUnlTSzdxeHJ2aVFkRXN6SXhtMGUxR1FRSVo2N1hTcnE1Z244c0RtLTBNR1ZrNk9yUkZEYlpuN0F4ZmFyNWREV1B2WHBUNndjYlhocTNkUVplZEZvSUtVaU5RUnVZV0pmZEdQWkFkdG11ZkFBYkRzc0RzTnh3ZXM3Ukxmbm80WnVOLWJoREgwYXlFZWhIWFR3MUlKVEtzSFYydHlLYnJuTlNDYnRJMU4ySzVCRDFqVm4wRWVmUEJTSXBVNFFNNDBQdzhKR3dvLWwxbWc3dHJNOEFPbVM2NldTb1NCVmJWbGgzM3NaVzRYag?oc=5",
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNT2xVNVFlaVM5c3RRTWpCOFBfd21kamd1dmE1V09TRV9tZkRFVVJlR0t4VjVsSzJmLVI5Y0oyQzhCeDZuSkd3MWNQV1RMUXgtUUhwQl9MMDhiTjNJTWFjNHRpaTl4Vy1sME10T1h1ZE9EbzRRWXc4Tk9VamhVU3BNSkdoV0ZRc0FHS1VSY1JYUmRLOFBRSktDYzUzSGFmUWVaOHJhdXBEVmhqVDUyYlFoamFyX3dmYzd5ckM4Q0dBcUt2WVFlS01aUk1yMktIeE53NUpaaDNCLVlWdTh1OGV5MWZKQ0dwNWIxM3dFbFBPTzgtUDM50gH6AUFVX3lxTE5fa2ZIbGR6dmVObm5aTHYwQzFBR0ZDQVZOUEdic2RjUG01OUk5azFWdl8tU204ZlZWNnNBZmwwRWpBZGc0eUNKTkVpdndVSmxwM1ZFZV9zazNISFlHdzhWYVZuT3F3MFhyV2tPMnVEb2JhNnFQRFVYMkVROUFuenREd21OSDFVdG90NUNkLU9IVlN1T3lSa0FZMHl3UjBrUzhXT2h6V0RqMEU5eVA0M3BIOUJkTDAxQU03MG1FR1pMM1diSTN2RkVWZl8tTDJuTTVOM1A1dWZtM19GNy1kRDdLeXpuWjR4YkpxdGpVbU5hb2Jra0d1WDBQMHc?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPRkNabVdYZVBKR0Nhd3Bka3QxbzhXYmdXMDhYUlg1dkxUWmJYUHBWQ2s4YnF4ZERNanpmQ0tTTWk1aU56bmNWaXJkX19NRW9EMDJ6WXhQbTB2eGhPdmpValNQcERCX28wbERCak40MUxnUGRpWDJidUVGclk1Q2x5OWlkcjNWTmpVUmZyUDFqT3g5aVVYWVlPQ3NCT0s4Q2g1U1RfWHhCNHVZaXUyOEp6T1k2WDhvclpwMnl2d3hDcDhkV2cyblVMbmRaN1NobWxrNEZXWUZFb3pVUWZtblhwdWJ5Y0FzVnhFMmkxelh4bVh3M28yQ0taWktrNDduMkdKc0NBa0xFR0nSAY4CQVVfeXFMTW4tUmdGSDhFczFIN0hQRDlSdnRWazNOaWRiakszU3YwWWF2UjViaEYyTkluUFlVSnJqRTRGUy1XZ09GM1ZOR2FfZEdlYU1sQU1kT1NyUDlOOTJSekI4VjJ5a25pbm9CellucVJ1aGhxYTNjd0hiUFFQQVI5SjU1V3RiVHZZRFhuVVdFdVJRVmktQWExcTNtUGRtNDZ5NzAxRXJCYlJVaEhGc3FONmlPMWtRSk9KQkl1VWtqZUo3QW5abHlmQlREamhQMjNnNXZJWnJyR2J5elFoaFM3S0Jqc0Q0cmJlVjRFZVJzQ1B0SU1oR0ZYU1JKSFJQbVAxU2dXMUUybmFvbHplUTFxWTB3?oc=5",
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5aHk2RkhZUVBRVDktV2s3UjlEaTVZenVlZHBkZktycHo4Qi1oREFwWGpCTXNSYnFKMi1CaHdOQjVtbFQwSlNZT015VTJwUDlFOVl5N0c2ZHJhTThISXQ2dkNkOGJVdWdSRTRCdmRyVDk1MV9Z?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBuTWQ1ekdJTk5UUzFYa2JVdWZfSjRuSFNNOW0zbkYwR3JMb3piZEVpVjNBdGwyMWtDWFdFSThsZVBEcWRUOUM2R3VsMlJ1Ry1hczJLVDB6ZS1ISG51QlZMMHpXanNEend1VnJsSk42WFhaZUNKcWN2S3Rn?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52WVpMU3otTFJneXExY2VOeklISkFWU1EtaE5xZlhKMlQ2LVpyQ2FjSHVlV2ZXQjJ0Nk9ySW1jVjQzYnZMUkRmN3R6TjJ0azdNUTRDV1hTYlotV28?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcnZ1NzQxSENhQ29VQXBDTTBYMFZaM0hDd24ydGZXLUwtNk1fSzR0elZmNjEzTXZhMHhieWJkLTVFdDhnQXlLM0RSclJJRm95VGtSQTVQNzREcWpZbk1yQ3JMTkE3aFF3NGRMcE1ZUm1NT0VONVZaeFVjSXVYZmlwVUNZdTY1bVNvdFZyQ0tKWlNIT05JVF9MQS1wTFRUYk14bEdsVU81YlZpVWxiQXY2VG12ZzlKeUE?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IUGxLZ0VwSHctQlJUaVRmcC15MHVRdGxHZ2N4NHc4cGduU2VGejhZMDdwclVkOFNHN29KcnJTS2gxcjVCc2owclZSV253NEhMT012YmYzeWZuOFl4UWtmWHd5U1Nidw?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE5sUFRQVVoyZUJsMVBYVlBJa0NzVlBzWDYwX2x1S0MzY2JBRXBuMWNzVXhYTElMak5mMVJzaUt1N1lmRzhjZzA2VHB3X1JhZFlRMUUyVGZBeFpRczRoakVjQ1VHMm9UUTlRbXliQmUxT1ZvRHJ2akRjU1JZZw?oc=5"
   ],
-  "last_run_utc": "2026-10-24T08:21:58.257415+00:00",
+  "last_run_utc": "2026-10-25T08:40:56.569895+00:00",
   "exams": {
     "GPSC Computer Engineer": {
       "status": "active",
@@ -997,13 +1030,6 @@
           "source": "PW",
           "published": "2026-09-29T11:31:16+00:00",
           "first_seen": "2026-09-30T09:57:44.706071+00:00"
-        },
-        {
-          "title": "GSSSB Recruitment Drive: 4,474 Posts Filled Out of 20,555 V… - GujaratSamachar English",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObV9pNEpKN1ZCUElETUpCejlXQ01yNHRrTEJBdm15UE12XzNzQmplR1FGRmlkdUgwV215UG9oWUl0TzdialEwc3dnSkNRY2pKeUo5TDJSWlpyUVRxbkNsOGZQbEYzQXUzbEhFMUpsRFhxUC1sMFltLXNHZlRSeGVQR3lJaER2LXQwVVhDVkVkZGYwR0U5RVlGNkxJcVZqUEp1cWk0a2daT0lyeFd5eWxMaU9mNzlWelRISGxtbnNVT3pzQjBaQ0pXWkJsdm95VDRFSzFoY3JMQnNNR205YVdoWTdn?oc=5",
-          "source": "GujaratSamachar English",
-          "published": "2026-09-10T07:00:00+00:00",
-          "first_seen": "2026-09-27T12:30:21.487509+00:00"
         },
         {
           "title": "Recruitment lags as GPSC posts lie vacant - Ahmedabad Mirror",
@@ -1217,6 +1243,13 @@
       "status": "active",
       "items": [
         {
+          "title": "SSC CHSL Applications Drop by Half for the First Time in 5 Years - Adda247",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUlFZmYtSkowZ1J6czYxWmZqTDB6cWVDSFVPSG5rT1BuZFFDc3Jzdlc4WnVSZUU1dkQ0NW1rZkMwSkJHOFd2V3ctTGpUMk5XR0Q2MDBXWEhvaEdkVml5VmxGNkZIN3VPb09yUXIyaHhlZ2xxOW96T1lnVWxJb0RmY2JVMTJWT0VWdmJZVzRwMVpWZi05Z3hvR3BMb1ZMa3U2?oc=5",
+          "source": "Adda247",
+          "published": "2026-10-24T14:05:22+00:00",
+          "first_seen": "2026-10-25T08:40:56.569895+00:00"
+        },
+        {
           "title": "OSSC CGL Exam Date 2026 Out at ossc.gov.in, Check New Exam Schedule Details - Adda247",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KUHI1azRCOXkyM2VZVTNYUlhEZXdDZ1VBQ25PMVBMWWlwNUNKbEdpNGxrNWQ0aF9YbUI5YTJTbFBQZUlXcmE3LTZqQ1cyT1FPa1hSUUR3bnJFTUZleXZ1aTEyeC02b2Z0?oc=5",
           "source": "Adda247",
@@ -1348,19 +1381,19 @@
           "source": "Adda247",
           "published": "2026-09-21T07:00:00+00:00",
           "first_seen": "2026-10-01T10:24:46.074368+00:00"
-        },
-        {
-          "title": "Hamirpur UP Anganwadi Helper Recruitment 2026 Notification Out, Apply Online for 104 Posts - Adda247",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMl93bmJkYVMwcWwwRkRUODRhSVRPVi1ET1pUY3BUWWxmYzBQeHlzSUZwX3BLMjc3WDJBdlkyTjZiakpTVE1Rb0ZsUUg3UWwxX2tqVWtVNld4bW5FcEtyREZKTWFxc0ZfQ1JNRE95Rkc0NFo4eWV3Y2dqZUR1VlFMcFRnZ0pRQQ?oc=5",
-          "source": "Adda247",
-          "published": "2026-09-30T08:00:32+00:00",
-          "first_seen": "2026-09-30T09:57:44.706071+00:00"
         }
       ]
     },
     "SSC JE": {
       "status": "active",
       "items": [
+        {
+          "title": "UPSSSC JE Vacancy 2026: 3,000+ Posts Expected - PW",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1bXZSSms0ay15b1A3VERTbzRoTE53aXRWZzN6MVZZbFBsTDRBeHBjMWNuTzlfSE9uWHB1UUFULW94SE1yUko1Z0QzYzFNRFRmcEg1d24zVmJrZEN0bnBlUzRCdzk?oc=5",
+          "source": "PW",
+          "published": "2026-10-22T07:00:00+00:00",
+          "first_seen": "2026-10-25T08:40:56.569895+00:00"
+        },
         {
           "title": "SSC JE City Intimation Slip 2026 Out @ssc.gov.in, Paper 1 Exam City Slip Link Active - Adda247",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlFfUVNGTTFWZnc0bVN0N0dCRHZWdGxWUjhOTUpxVm54QmJ4M09WUlFLQmJSNEx4X2J6ZUZZU3JDbkNtSWN0WXRqMVprVnVLSmNqZjJfNWd4SFcyd1JJNTBWSXVyVFBiXzlRdTlJME1XZnlXYmNzSDltNEZEWW9nZnBrUjQ?oc=5",
@@ -1493,19 +1526,19 @@
           "source": "Adda247",
           "published": "2026-10-07T11:07:38+00:00",
           "first_seen": "2026-10-12T11:15:59.303496+00:00"
-        },
-        {
-          "title": "SSC JE 2026 Notification Out: Exam Date, Vacancy, Eligibility & Selection Process - PW",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kalVCUWV4ZThDaWJoS2F2TVlreUJ4VXdHMU8tbXpnNGdvR1o5MHM2bVhGYWhRYlhBb0NtRGVsbXc4Yzc3RndEQ0g0d3ZVRkp0M2ZXZFVn?oc=5",
-          "source": "PW",
-          "published": "2026-10-08T07:00:00+00:00",
-          "first_seen": "2026-10-11T10:16:22.845658+00:00"
         }
       ]
     },
     "IBPS SO (IT Officer)": {
       "status": "active",
       "items": [
+        {
+          "title": "NIACL AO Notification 2026 for 350+ Posts, Eligibility, Registration, Exam Date - Adda247",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YYVp3SXBRVWRqUmF5N1B6R1gwand1R3M1SmFXWGF5WE42MEZGZUE1emZJQ3Azbk52U21Bbk5CWTJJWVpTbFR0U0lXTDlLenFtaEN3VE9UODNvcEMzSjY0?oc=5",
+          "source": "Adda247",
+          "published": "2026-10-21T07:00:00+00:00",
+          "first_seen": "2026-10-25T08:40:56.569895+00:00"
+        },
         {
           "title": "SEBI Grade A 2026: Notification, Vacancy Details, EIigibility and Exam Date - Adda247",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIQXE2RUVuM1FPWUp0c3pBSXZ5MVFubjRTel93SDJrVllZT3dHM1Q5aWRXcGNJYlJCM3FfZW43TXNqck81N3V2TXNsNU40b0N3WGV6SFVaY2lUUDA?oc=5",
@@ -1636,13 +1669,6 @@
           "source": "Adda247",
           "published": "2026-09-30T12:40:56+00:00",
           "first_seen": "2026-10-01T10:24:46.074368+00:00"
-        },
-        {
-          "title": "IBPS PO prelims result still awaited — what a PO earns - indianpaycalculator.in",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUYwSldtSkw2NkZUYk1QVDltcFNvWDd0WFJIQk5jMTBTMXNkX0JlR09ZWmtkdGlNXy1pVjBnb1FKLVcxeEtNT19ueEd2RHJrUFhMT2p1WlhoWGludXRtbVkyTFdCajVVcVNwN2hGSkdxQVRBZ2h5MHpfSGNaUGxGOUFMR2t2dmFncERFemNFa2pzcDloaTlPQUQtQQ?oc=5",
-          "source": "indianpaycalculator.in",
-          "published": "2026-09-10T07:00:00+00:00",
-          "first_seen": "2026-09-27T12:45:26.889089+00:00"
         },
         {
           "title": "IBPS RRB Notification 2026 Out - Official PDF, 13,745 Office Assistant and Officer Scale 1, 2 & 3 Posts - Bankersadda",
@@ -1816,6 +1842,13 @@
       "status": "active",
       "items": [
         {
+          "title": "RBI Grade B Cut Off 2027, Check Previous Year Cut Qualifying Marks - Bankersadda",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxaGNUSTZ3TVR3T1ZxdTBETHo1SW9mN21qVWRBTmppU3E4Y2Y2cVYwQVJwVDgzYmI0YmlhZ1ZBd1BfcHhJenVHQlBHejZDQjExcDZwZmhSb3pYLTJJ?oc=5",
+          "source": "Bankersadda",
+          "published": "2026-10-23T07:00:00+00:00",
+          "first_seen": "2026-10-25T08:40:56.569895+00:00"
+        },
+        {
           "title": "RBI Grade B & Grade A 2027 Calendar OUT! 🚨 Notification & Exam Months Announced - YouTube",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9tcWlWWDZ4dXVub3ZLYnRmbkVleE85dm5JMzI4R1dIcXJNbWlsSTIwMXhQOVdvZFo4cjhDVjA1R1hzUQ?oc=5",
           "source": "YouTube",
@@ -1947,19 +1980,33 @@
           "source": "adda247.com",
           "published": "2026-09-22T07:00:00+00:00",
           "first_seen": "2026-09-27T12:30:21.487509+00:00"
-        },
-        {
-          "title": "UIIC AO Apply Online 2026 Started Now @uiic.co.in, Check Application Link, Fee and Last Date - adda247.com",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rMGxfR3hPbEJwVGc0akpMdDRBOTF4cS1rRDFHSUdRTEVfRGJjV1ZOeGtBbFRZUEIwSHpsbkxOR0lPUzFrWkxFbEpOYkZDc0VLZXA3SVNSVlBZWEg0QmVfd2h6c3pxdw?oc=5",
-          "source": "adda247.com",
-          "published": "2026-09-24T07:00:00+00:00",
-          "first_seen": "2026-09-27T12:30:21.487509+00:00"
         }
       ]
     },
     "RRB NTPC": {
       "status": "active",
       "items": [
+        {
+          "title": "RRB Isolated Category Recruitment 2026 (Short Notice) Out For 195 Posts, Check Application Dates - Adda247",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVRhdUhfRWprY0N1dUdxdVAzeVpKYWZrdGhFbkFaMFJrSXlBUHZ4eFhTZzg0NUxFUGR1ZUN0UzJscW1qZ0hmYncycGJRbkMyOFB1b3dIcFV2cGRCT3FhOFFtQkxVdHAyVTctbEFiY0kxR2VUUVJRQ01SZWhla0g5SlFNSjg?oc=5",
+          "source": "Adda247",
+          "published": "2026-10-21T07:00:00+00:00",
+          "first_seen": "2026-10-25T08:40:56.569895+00:00"
+        },
+        {
+          "title": "RRB NTPC Graduate Recruitment 2026: 3,548 vacancies announced, apply online now - Education Times",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWWxJS1RMa0M2NHMxMkh0bHpkcnQtUFRxTmx0d01lMFdOcTdueDQ5NzdZenZ6RkNjY3MxR1VfUHlQbEVYTUV6VXZWc2hLUW5XVFVabUZjQnMwX19qU00xQ3UyLTd6VzhmNnJKSUQwQmYzelpEWnhaRllPU0xKeVZNYXFzRnBVYUwwbjgyQWlJVlhRSXNYajJpUkhSMVIyTU1ZSU13THg0SXg0VjlPdFRaZC1FZllzMTdkUjlfc1FPN1l1VVBINldnQ29DU2Q5LTF6djdTcg?oc=5",
+          "source": "Education Times",
+          "published": "2026-10-09T08:30:00+00:00",
+          "first_seen": "2026-10-25T08:40:56.569895+00:00"
+        },
+        {
+          "title": "UPPSC RO ARO Vacancy 2026 Notification Out For 501 Posts, Apply Online On 26 Oct - Adda247",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWZllVa3o3d0lIMXd5T3VWUERnSDgzanJVQnRfMlVZX2xDT0NWODhkeVJoNFhvRXhOeUhaS1dRbllGZzNTUXUwQ2RSa1Z2alFKdEpQYXhvNUl3ZDJlM1B6bUREc0ZkZm5WWVZN?oc=5",
+          "source": "Adda247",
+          "published": "2026-10-24T16:17:39+00:00",
+          "first_seen": "2026-10-25T08:40:56.569895+00:00"
+        },
         {
           "title": "Railway Recruitment Boards announce 3,548 graduate-level vacancies under NTPC recruitment 2026 - News On AIR",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMWtuUFREcHVyWTV2YkR5WFIwVGVlbzNTWjFpYVoyaWRkZF96NGdLYWx0cnlYS1pWLXVLV2tJVTNJN2F2VjFuc2ZuR0wya3dzdkFTN3FBM0JQRU8tdlJnRGl6OGpjelV6MDczTXc0SlNfbHpUcEFxWHhmcEc5TDNLS3prMHcyQm96UjJJOHY2bGxzNFRxc0MtOHBZTWx6TDE5cnlZYjhtaExMQW1QWmJzY1VVcG5lV25qZmVn?oc=5",
@@ -2078,33 +2125,19 @@
           "source": "Shiksha",
           "published": "2026-10-15T10:31:34+00:00",
           "first_seen": "2026-10-16T08:27:24.164671+00:00"
-        },
-        {
-          "title": "RRB NTPC UG recruitment 2026: Notification released for 1,688 posts, apply here - The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSTNKcGF5ckltMEtXZGxTQV8wYS1YbmNtZUZvQ1EtX3lMdXdlZktIVEh2a1hDNlYtUF9UaDBTRWZWWkZVZk1EcGtJUWZ5OC1oUnl3a01Dcllmc0p2TmswcHNPVC1OSDNMcU5obVhSSnpzUUpsMXhGZnNVOHlkSURjYUE5SVdpakZaRXR5bmduZ1kzV293eVRVb24yaXBUbmdRQUNwa2VpUzVveUU1emNfRk9YeE1IV3puMEZIdHJyYmdVTzVySmpvemg5TVRxZDMyd2E2eHh0dmM0cmV1Z2hYNEdXSUp3SmJP0gHuAUFVX3lxTFBqZ3oxSmRzdF96RWs4YTFEejZkTU1Fc2tTcjAyT3VaM0ZNakpJYl9YdTZRR2U5T0I2cE44ZWNnclRKazhkRWVoajZJNXIzdms3dnJIZnV4aGpSNGdVNHg3eEQ0em9aeFVlZGdDWEZwZkpubTgwLTduUDdFNTdFa1kxMl91dVhyT0k3dmJhMFhTalNnSWZKOWpLSEdnZjVFdGpqelFjX0pOZ29yODFIMFpPWU95Z0p0eUJibHNMNmtpRklDdUdySkoybDAtS2F2SjFRVkM0UTZ2b185X21Oek1hRGtRSHBzVHRNSkN0Vnc?oc=5",
-          "source": "The Times of India",
-          "published": "2026-10-15T05:12:00+00:00",
-          "first_seen": "2026-10-15T08:33:17.959195+00:00"
-        },
-        {
-          "title": "RRB NTPC UG Notification 2026 Out: Applications open for 1688 posts, here’s how to apply - The Indian Express",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYXdXa1JVQjFYRDJQb2ZPY0RjdDNBcFFUcXpXZDctR1FEZXdxS1VtYlVOenFmZTVFcE42MnItUnRPOHBqVHBiREJRN1RqR0dmdVFjUThkYVBoNS1aRmw3eS1LbFRqTTJ6T3hoYkFXQUxuQlRQdWZCdXRSSU1zZWxQTG1BZmRidXRKSnFpNU8wUDdJMWVvQWRhVmdFOE5xTXBSQjNmbFlhcjNpdFBGZnBWUG0taVhrTnlOWnpXcFJXbVBweW5WRmtXaC1UeS03YkZ0V2t1SlF4RUdLZ2VQc3h6S9IB4AFBVV95cUxPYXdXa1JVQjFYRDJQb2ZPY0RjdDNBcFFUcXpXZDctR1FEZXdxS1VtYlVOenFmZTVFcE42MnItUnRPOHBqVHBiREJRN1RqR0dmdVFjUThkYVBoNS1aRmw3eS1LbFRqTTJ6T3hoYkFXQUxuQlRQdWZCdXRSSU1zZWxQTG1BZmRidXRKSnFpNU8wUDdJMWVvQWRhVmdFOE5xTXBSQjNmbFlhcjNpdFBGZnBWUG0taVhrTnlOWnpXcFJXbVBweW5WRmtXaC1UeS03YkZ0V2t1SlF4RUdLZ2VQc3h6Sw?oc=5",
-          "source": "The Indian Express",
-          "published": "2026-10-15T06:03:52+00:00",
-          "first_seen": "2026-10-15T08:33:17.959195+00:00"
-        },
-        {
-          "title": "RRB NTPC UG recruitment 2026: Notification out for 1,688 posts, apply here - India Today",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcGYzdkJCaWx0UHNiVWdsYWl0anNsbmx1WUFtaS1IT2FsbWxhQW9CTXpZRHRRWWVISS1Nb24zSDlFQVJENi04bEFMaVhMMWFkdmZXbWRfY2VEeXdYVUlOV3ZoMXAwR1B3Q2g3SFc3b2xNX3FGMXRiN0U2elM1WXpidjBRX3NCc3lISHNldUdVdWNLbThIblNjZEFDVmg3WXZQRTUxQUhvVkJ5cU1ubFJIdkcxSm5SNlZkbnBYVXdJZG8zdw?oc=5",
-          "source": "India Today",
-          "published": "2026-10-15T06:00:47+00:00",
-          "first_seen": "2026-10-15T08:33:17.959195+00:00"
         }
       ]
     },
     "RRB JE": {
       "status": "active",
       "items": [
+        {
+          "title": "RRB JE Admit Card 2026 Released for CBT 1; Check Exam Dates Inside - Telegraph India",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUZoRkg3TXJWRWlmNGpUSWhCbkJvTXBlQ2g2dHZYQkt3Y2NNWHU2dXlNZ1NJbFpScVBabDFzYi1ScGwtZ3VQTGJlTU5jLWNERnNYUjNBOXpVWHBZYVNQV2lHTVM2bjBGdXU4b0hnZHVrX1JSbzZtZGtPSWI3bGFHSmJITFZ6TGZSNlpkLWVSQlJoTTViby1aTm9EbFg1QUhVb0taT1lma2dKa0U4VlV5eDQwWVBWeFN3akhUSU5XS3NRcDBr0gHEAUFVX3lxTE9VRmhGSDdNclZFaWY0alRJaEJuQm9NcGVDaDZ0dlhCS3djY01YdTZ1eU1nU0lsWlJxUFpsMXNiLVJwbC1ndVBMYmVNTmMtY0RGc1hSM0E5elVYcFlhU1BXaUdNUzZuMEZ1dThvSGdkdWtfUlJvNm1ka09JYjdsYUdKYkhMVnpMZlI2WmQtZVJCUmhNNWJvLVpOb0RsWDVBSFVvS1pPWWZrZ0prRThWVXl4NDBZUFZ4U3dqSFRJTldLc1FwMGs?oc=5",
+          "source": "Telegraph India",
+          "published": "2026-10-24T07:14:06+00:00",
+          "first_seen": "2026-10-25T08:40:56.569895+00:00"
+        },
         {
           "title": "RRB JE Admit Card 2026 Released for CBT 1; Check Exam Dates Inside - Telegraph India",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYkJIZnBVbHRFcnEtc09pZWc0eDhFclA5VzQwN3g5YThMX1dvaHpSYXAzMHpqWTQtTmowMjN0YUZDSElKUHlKSmZwdHdVRmdjdkVTbHh4aDJQZFZfaXZGQ3JaLWJQTEk3azNSMWswZUtMWGcycDh5c2N1ejVXRnZ3X21xSzhiQXA4VHRQN1pvdFVlZVkyR0lSQmtHNGJMNnN4VklYZmZWbUc2SnpRRTBWRmRtWnBaZ0Vua3BRMmFCQdIBxAFBVV95cUxPVUZoRkg3TXJWRWlmNGpUSWhCbkJvTXBlQ2g2dHZYQkt3Y2NNWHU2dXlNZ1NJbFpScVBabDFzYi1ScGwtZ3VQTGJlTU5jLWNERnNYUjNBOXpVWHBZYVNQV2lHTVM2bjBGdXU4b0hnZHVrX1JSbzZtZGtPSWI3bGFHSmJITFZ6TGZSNlpkLWVSQlJoTTViby1aTm9EbFg1QUhVb0taT1lma2dKa0U4VlV5eDQwWVBWeFN3akhUSU5XS3NRcDBr?oc=5",
@@ -2236,13 +2269,6 @@
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XR2NEbVZoaTNETjgtczc0NExTakJZTVJjajBVb3ZGQjBQalpCWVQzZkd6WVg2cjA0UUx2U2FVcXlRUm9KU2Q2Y2dISnVRc1puLVg3SFVoOGtuUkp2UVhxbVhHbnVGdGY3ZHJZWGVCbUdQNnR2YlhRMkhsTHY?oc=5",
           "source": "Adda247",
           "published": "2026-09-24T07:00:00+00:00",
-          "first_seen": "2026-09-27T12:40:54.434563+00:00"
-        },
-        {
-          "title": "RRC GDCE Recruitment 2026 Notification Out, Apply Online for 1465 Technician, JE, DMS, & Other Posts - Adda247",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QQWd1NXdjOWMxQU04OGtqQmg1QzJqRXhEYlFldnVYYWhrRlJqMk03VUVmajI2RjNoRWMtM3hMbUh3b2x0WWRDUnlJOEdpZnBKYUJ0SWY3RGtGWlRPVmRIY1F2WXAyTDlPMW1nS3Fmaw?oc=5",
-          "source": "Adda247",
-          "published": "2026-09-17T07:00:00+00:00",
           "first_seen": "2026-09-27T12:40:54.434563+00:00"
         }
       ]
@@ -2450,6 +2476,27 @@
       "status": "active",
       "items": [
         {
+          "title": "Upcoming Government Exams 2026-2027: Latest Updates on UPSC, SSC, Bank, Railway, TET, Defence Exams - Careers360",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TbWZLMXFUVUtfTlZSQW81Y1N1QlRISjNyWHNIMldadjBWLTVFVjMxeExoT1dhV3YtcWlDUk5DVm1HeFpSd29lRTd1bXVtX2dVZ0ZqUjRieWlNWVJGbUp5aHlROHd5dTZnR0o2TGdNbGh2UXk2UEYxNw?oc=5",
+          "source": "Careers360",
+          "published": "2026-10-23T07:00:00+00:00",
+          "first_seen": "2026-10-25T08:40:56.569895+00:00"
+        },
+        {
+          "title": "UPSC principal and vice-principal recruitment 2026 exam postponed to January 2027 - Careers360",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWZMaG5sbjhJdGpFQV9SRm11TTk4Uk5hb0E2alhPVXhRUHRXdUlmb19LdFp0eDk3Ymg0bDl2b3NFdF9xNUpvS01vUUZwN1VOd2ZPaUd2QzhzblNLdEhPNkpMVExxZk93MlJiVXA1T2xYX3drcHRsREJRU0phMXVmRzRJTnNCclB2T3NHdy0yV1J0YmFFWFJBRTVXZnpNemo5NXRiS251bXNuc3RueGNTV0QxUDk3YTZpLVVOY09XM1gtZlc5RjBUY1hLMkLSAdIBQVVfeXFMTUJhSFMyY19SREdGa0Exd01QUjdTNmRxak80ay1iVVd2WWFlRTlZV0FaaVlqZ1V6Q2hLeEFkSldGNDA4YWxZU0loYVpUbGZ6WHdPUHBjeXprTWFqQS13bGlTekIwaUxkR3hJY0htd254WDhteUtsa3l6VXdTRFlURHVsR0ptdUJGTmRZZWJfRjlvTU9hdDJOOEg0a201TloweEw2ZzdxSlFiM1FMSkRyeVMxOWQ4UzkyVnoxbVRuX3R5R2YwMEd6R0doalV0WEpqQ0RR?oc=5",
+          "source": "Careers360",
+          "published": "2026-10-16T07:00:00+00:00",
+          "first_seen": "2026-10-25T08:40:56.569895+00:00"
+        },
+        {
+          "title": "UPSC Principal final result 2026 released for 363 posts at upsc.gov.in: Check direct link to download her - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNV2UteVR4MnQ5OGlTOXJsQnhSbEJUY0RlMVFvQUVRRnpSeEpaczVYdkZYb0ZCZ2o4aTBGNzM3VmNMZU13Mmh5dU9FRzNPbXFmRUJvemRrZC1xdU5IOHdJbWNnTkV0Q2gtSnhVTndZMzRlMzh3SFRHM3VsVl9HVUktOE9NSFJ6WVZ4aHE5NWltYzZZYVJHWUdCTWg5bmNoYnJHU1gyY2VXRXBJQnp6eGo2T0NvMEVQSXNuOFJsMFBJUWlVc2Q4bFdPbF9oUHdGSm8wM2V6eW9FQUxKWUZ6YWlZVzRJZkFCWkZDN2U0ajktQ3VYZUV0SUU3UnZjQ0pEaW9TejQ3cExhX3Q1OUhDUlRR0gGUAkFVX3lxTE1xM0lReXVUZDhPQXBmb1hZZFZ4MGdlVEVDQWRQdkFlYlB0WUdtUnlTSzdxeHJ2aVFkRXN6SXhtMGUxR1FRSVo2N1hTcnE1Z244c0RtLTBNR1ZrNk9yUkZEYlpuN0F4ZmFyNWREV1B2WHBUNndjYlhocTNkUVplZEZvSUtVaU5RUnVZV0pmZEdQWkFkdG11ZkFBYkRzc0RzTnh3ZXM3Ukxmbm80WnVOLWJoREgwYXlFZWhIWFR3MUlKVEtzSFYydHlLYnJuTlNDYnRJMU4ySzVCRDFqVm4wRWVmUEJTSXBVNFFNNDBQdzhKR3dvLWwxbWc3dHJNOEFPbVM2NldTb1NCVmJWbGgzM3NaVzRYag?oc=5",
+          "source": "The Times of India",
+          "published": "2026-09-30T07:00:00+00:00",
+          "first_seen": "2026-10-25T08:40:56.569895+00:00"
+        },
+        {
           "title": "UPSC CDS 2 result 2026 declared for 451 posts, check written examination result at upsc.gov.in - The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPb1E3b080WXpyMnVFb3BlOXBiRmpVT1Nlb1hsTVN5V3c4UUY2bTNFQXJrRTJnbmF6SGlubDdaRUI5aTRqYlc5bE5Mby13VWZrQllyNm1FZGtvcmJKSUVNR0xRQWdPb2ZkQmdpbUJLdGwzdkVnRVpLWVd1VEkwSGhNclRxREhjNW1ZMHpmMF9qYkhzanZZUmhlY2ZzTUkzQldDTkVSdGE2QUl4WGRsNnRucnZsVFZ3Sjg4S1NXT3pyZGhlc0xPSy1BQ0s5NENxc0EtSG9WdUxQcHZXQjNpTWl5V0MwN0N0ZFpkYzByRVVjMkIyZDlXYm1aOXNpNmFoX1HSAYQCQVVfeXFMT2l1OHNDaUpJc0lNY3NYMFI3aUJXYzhSaXZZdU90NnZKRndsTmhwSjFjb2tYRUtldDUtVGp4dDEwYXZHWExHb2tRWnhHWkFoTldOTmxUOXYtWGlkUmh4dWNZczQ4TmN5N0RybzRRZ0k5RDhZYUFnc3VjR21QSldEejZUVDlYc3kxQ1k2bGlpUHNpZG51cGpOaUN2cGgwTFZwbzduelk1ZDZMcjl3NUczZ1k0VGE1d0ZtVFRRUlNnaHR0T25OREJxLUQ2YmNKdmU4NmRUbWM3NEZMcFQ0bmZPQTVIb0RCdTI1MDFMWTZQOG82bUxDN0dwa0xXVlRJd2ctWm1wS1o?oc=5",
           "source": "The Times of India",
@@ -2567,27 +2614,6 @@
           "source": "thehindu.com",
           "published": "2026-09-16T07:00:00+00:00",
           "first_seen": "2026-09-28T10:06:56.444792+00:00"
-        },
-        {
-          "title": "UPSC EPFO Apply Online 2026, Today is Last Date To Apply - adda247.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CcUJzRl9YQW5QVlh3LUFTRnFQREh4NVBQQ1lUTU1wUFJfNmpxd1lPQ09vT1lURmIycEU3MTlWVlVkRDQxTW9lSGxVMWtuc1U1ZVVyQTRMWDEyOERBNzk1NG5yX1hrZlVsTEd2ZFBfNkJGR3pPU3BR?oc=5",
-          "source": "adda247.com",
-          "published": "2026-09-14T07:00:00+00:00",
-          "first_seen": "2026-09-28T10:06:56.444792+00:00"
-        },
-        {
-          "title": "UPSC recruitment 2026: Applications open for 212 posts in government departments - India Today",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmVtakwxS2ozTG1MQk02VTBiOWUzSHhMeW5KWXo5enBPQy1XUjdWNEFfWVdtZ1hjU2lGUjJzeXg1OXNmWUdRR2VCVlpfNld4bEFUWFhOZ1g1N0p6TTVsczJvcF81LWFucmJQS0pJdjZrT0pFNFgwU3BsZHpHWXhtNHlyQmZvcllOY0lZOW9FbjFBU3JkZmJ5V1BfZk1oTnV2YTJDdU9aTXVyS09SYlk3OHV0dEd3aUJLb2dlWlc2YVlibHJIUTFBOENhenU?oc=5",
-          "source": "India Today",
-          "published": "2026-09-11T07:00:00+00:00",
-          "first_seen": "2026-09-27T12:40:54.434563+00:00"
-        },
-        {
-          "title": "UPSC direct recruitment 2026: Applications open for 13 posts, check vacancy details - India Today",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVEl5NEU1WHVPMloxYks3NmIzOHpEOVZyTGRvd09VX2xGejJVaXBOeUZWS2doZm13SEpiMkQtZ1Nqbzk0cXJjS0gxWEt1dE9ERDFicHk3U3I5UEhjQThCVnZESGdxVTU5OWJ0TGZBMldjS3NEczRHeGxrV1BhNkxDT3picjlXRzVzN0ZYeDFKdU5BbEM2MTl5SUVkRHdhRm9VT21WS3k5cFVGSTEySUZTbFlYd1F4R2dqOFRXZnpSbHBxcnNvSzdMRDI2WklFNEE?oc=5",
-          "source": "India Today",
-          "published": "2026-09-27T11:18:04+00:00",
-          "first_seen": "2026-09-27T12:30:21.487509+00:00"
         }
       ]
     },
@@ -2655,13 +2681,6 @@
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05Um10Q0VpNHNmd3hHTnVhNGxUS3lMVFRWZWNhYm1SenZlNTBuaGRoOXdSY01vNk4wNGt3ZEhTSFZlaHNkUFBQX19sNTh6Zzh2S29xNGZNbFROcDhxU2VqMk90VHI5SFlUT0NoRGVYQVE?oc=5",
           "source": "Careers360",
           "published": "2026-09-16T07:00:00+00:00",
-          "first_seen": "2026-09-27T12:40:54.434563+00:00"
-        },
-        {
-          "title": "UPSC ESE 2026 Interview From Sept 21: Schedule, e-Summon & ESE 2027 - PW",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM0tudk1KLTlRYTFxejdzTThTQnV4dkpGdDdCOVQxUEdxNnpMREIxOG1la0JVUTZldkpfTUNQdWZuTk1jUGlhZFBObXZHT1VqN1lqMkhuc211UU9LRFlNNnU2V1lrY05NTmI2LVNNdkRjQV83YmR0VEpsS2V3VG1Ed0g3VTQ3akRnSEtCNzloMHZwelRleFFpTks2MUN0M09aaXFpMU5mbS1wM0lhS0M0UW5jWGZvOUxt?oc=5",
-          "source": "PW",
-          "published": "2026-09-10T07:43:19+00:00",
           "first_seen": "2026-09-27T12:40:54.434563+00:00"
         },
         {
@@ -2759,13 +2778,6 @@
           "source": "PW",
           "published": "2026-09-29T08:32:30+00:00",
           "first_seen": "2026-09-29T10:05:21.677571+00:00"
-        },
-        {
-          "title": "GATE Cutoff for PSU Recruitment 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017 - Shiksha.com",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSTNRZXYyVTZwVE9mODJaVVJYYXZKb3o5YlhQVnBBOUt2UjFnYmdmTHdlcGVvTUhBcDFCOGVxR0Z4eVRQR2FXbnU2eHA2Y1JOVUpJVXk3WFBZOURGeVhoSlo5VVBCa3paT2YxamlDeTlVM1F6MHdTT1MtMjlzTkU5c0U1MA?oc=5",
-          "source": "Shiksha.com",
-          "published": "2026-09-10T07:00:00+00:00",
-          "first_seen": "2026-09-27T12:30:21.487509+00:00"
         }
       ]
     }
