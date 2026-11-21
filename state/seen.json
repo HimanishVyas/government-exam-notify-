@@ -1372,13 +1372,36 @@
     "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCRXBvRVJ6STF1amNCNGRfS3BqNmsyQjUwWXVVLVVDc1R5aTlPVjNuSHNsNWJKMm1WNlNTSHczOHpJU1dQamcwU2tlUTU3MFRjV0trVGg2eExTS1lBRDZPNzNlS3lRMVc1Q2hibGd2VGtqTS14Zzl4Ym5sWF8?oc=5",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JUzgwNjMxTE8tcWdrUUpWdFZpV1pNSDZacWxIc1RET19NUjU4WTU5ZmFxY1E5UUktN3ZPZXl6QlhkeFFobFlBWHgtUWF5d25JSmE1YnF3?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUy1kbGI0bHdkU2VUbm9TejFRdUZvbDdVSWJvcG15WDVjMUVlMVhCQTV3NWNOVndxNUNaS2hLYl9YZGdEb2pQQU9kTzQ2YS1zdkF2ajA5S2ZTUndDWFZQazVKMTJvdUZQeDJLbEw4bWktNnZLWWZmSjUxN3NtQW5DUGVrckMtZklj?oc=5",
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVk5RFBUekpPSFFLYXdpRnJFS25XQ1Z6d0gxN1ltb01ETEtZNWVlOGloeWNmc2VVQ3RHRVVMb3ViMkpiWERrUjFsaWFwUDVwMVpwZWdOZjNBX2F5OUk1ZUlCMFJyUVZoWGg2VXkxcXExWFJjQ0lZMFhMRFhiMGVub20xQkxfaV9IUEJDU2NrcU1wOTA4WW5hM2lvTkxIcDNuU1pkc3E0M2xfQ3VhLXExZkdrbnlVeDU1aU1ZaV9yYUEyMzdyLVo2WUJRXzhxbE1yY09pR1ZWM1hCOUlwd3ZQMUw5ektrVENC?oc=5"
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUVk5RFBUekpPSFFLYXdpRnJFS25XQ1Z6d0gxN1ltb01ETEtZNWVlOGloeWNmc2VVQ3RHRVVMb3ViMkpiWERrUjFsaWFwUDVwMVpwZWdOZjNBX2F5OUk1ZUlCMFJyUVZoWGg2VXkxcXExWFJjQ0lZMFhMRFhiMGVub20xQkxfaV9IUEJDU2NrcU1wOTA4WW5hM2lvTkxIcDNuU1pkc3E0M2xfQ3VhLXExZkdrbnlVeDU1aU1ZaV9yYUEyMzdyLVo2WUJRXzhxbE1yY09pR1ZWM1hCOUlwd3ZQMUw5ektrVENC?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XcmN2Rmc4VVVGWUN6S25KWlZvN3VlQ3Q1YnR5MzdIV181QWgtNnlZTDJCZ2xpcFdJVS11STZ2TE5fZ3F5MGNyNEVYVEdpYWxjNWdDbjJQZXdXWnVSdXg0QWpwcUZvblpTdW91WVlrLVN6WTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWE4a1IwLXFlV2ZjY3gydzZUT3Ftb2ZOZTBfQ2lfMG82Z09ERGlwZkZUNzl2T0pacTVNNWxaaXIyYVc5SXNkR1NEZ09RS2lxUzNXV2dzZnZkLUl1UGZ5d2ZoZW1XcGYwUlROUTE0TVJQb2p6UlhnbWoxOW5HLWNTRmZvcHFMbmo5ZEJlVmViR29nbHloellLQXlyZVdsNTlrbG4wd3h2S1V6bTQ5MERnZGs1eHhGQlZONm1WODhYRkptUDYwdWxaUFRnLUk4cGs?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxONXp1YkQzV3Z5Y2NPbG1pSWtKeXo2M1Nxd0xFd2dpcnQ1M0hLRzhUOWpuY2YyelJ1TWU4eDk3eFhFY19FOUVyU042c2haMDNxc1BMNm5XZDNPeGxxTm5nOXhDR050cVFPdWtkWUVvVV9NQ0RVakxkbHZ5a0JNSkFCVW9peGJWdkNUNDBlUmtOY0xwQ3o5bF8wLWRtbEI1SFo3a0FkeFZjTFNRUnBWT2doVkNteEpUcUE?oc=5",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSzZMbDVGcjJQVVJtUGl0UXpkOXZoSG9LWDBNM0UyUGt3ekM1RkpzOWVQdE5WRXlId3pLekFLeFNBSGF1WFliOXdrVDdSWUd6QjI4MFE5UTVTOHdaZXA3bEtNYlh3LUNlclhGOV92OEl4b3RYT3ZJeXRPbEEwb0g3X2pBSzR2cFJDUlBUMFZmQmRRdDdkd2ZEanduYzdyUlZ0SW51UG9MR2xPemlZRXNqRDZ5bnF2VEVqM3prNXl3VXBDNlFibmlsRGN2cTZHNjhhSkFQR0ppZE5hTkVxQm4ybmF0TUxJcVRDcnNFdnVzMk5GMGPSAfoBQVVfeXFMTkpENTZaT0RlSWlNcUhzMkh6M0RFbk04RVhJWWlHQ3lYYm0wbUpnUkNUQmxIVXpaZGI2Nm53OEZ3alhLM3lReGFURFJrMU4xaV9mWmVfLXZNb01Pa0xWM2t1el9vbVJWcjBIUmZucC15SjdnM2FneTIyamRqbnBiM2VJdEJjd3VXU0F4STBUX1JlQkZpaXJuU3l1bXpVMkxrMGpWSUZKYUNtQm1OcFp4YzlPeGQ0dTR6QXd4SGo5cnRqRXUzV1VvMGZxRFNDdDRTRUhvSENJVEdIcVhfRWNncFQyRUNhWFFsOFgwY0wxM2xieVdmeDZDS2xDQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxeGYxeVJ4N2xDajJRcjdVOEdRSWFYUGdGbWNUZ3dwbWVmLWpaVHByOVIyWVI1Z3o4WWhidWMtaF80RmVWalZFY09Ga1Q1R3B0Y2lVMk90UGhnVTZHWWFz?oc=5",
+    "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aRVp5RzFuTFpWM3hzQWRmV3F6UnVCM0lNMXlPLU9fLTdULVBUcWo4ZTAwY09NT2NUNExKUi1rbXY2Q0hZUXowUzVqWEhqM0NIR2h4cmdrbGtvS0RVbWl5XzlkSlpRUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12MVY3dVRORTZKNlZhMnRORjJqZlNrSzdfUHRtcmpiZzhlR0syNDNPUVhNdVg2QnZaSGxKWHdyNFJXMnMtUjZiUHR3eVROLVpuOEVJVy16UnM0SmN0?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbXFaQ0ljOWliMEFMOVhsenN5X1VVMjU2ZEZQNzUzbmxLVTVic09rLV9BSmFVU1Q3YXNGaXJ4TmxZYzBWNEhKRnlhZXlzWHVpZ1JDVDlGT3hnNjAwd0k5UFM3b0JEUEhYbTB0Ykk0eWlCMHFXSVVVYW9ZN05WQ0pYQUxfNE5KSG15Ync?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4NnIzd1MyaWtIVVh3SlRlLWE0Q0pzVFU1akdfeFBJU3dRam0xcDA4a0Q3cEdwaDl1em15dnNHeWQtZnlwMXhsVEtHSVEzR3RxbmtzTExaLXQxcmtXRXE2cGYzanZmbWdPZktmN0ZXbnp2SGkySmU4?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE83MHdaT1hfS05QdWdQMTVtSjZhMnFKc25rV3VmaEEzalFRSVN6cUxWT2J1TnZYQm5hR0JFSkh1YV92TnJhNlA1aUwwX0VvOUctQnh6XzNJczFIbS0zb1hMTDU2NEdOd1AzWmZfaWEzOWtob0E?oc=5",
+    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0yakhoX2RHdWZHa2RHVzQ5emlOLUlTeC1id3R2TFZpcFFrUzJNcWFlVW9XV0RHTjRPVXFSMHJ4aVlzZw?oc=5",
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSG1MVDNHQXhrcXQ0bnJmS01RdWN5a0gycHJCTERjUUFCTUZ2VFJfYzRuU1VmcUQzMlNIc1M2V2FfYTNRMmFKckhiZUJPWjk0ZlJzSkRPNzJHblpFVUdnYnFaUjNvQ1ZVb0t0MWFkR1czc0lCVk5LMUo0VFZDblJ6M1RwTkdfYm44Yk91ZEt2OFdVLVJvN3hYOGdJWS1lZGpsWTZ4MjZmOVhyVTlFOHpwS1N1Qnlta2M3QnRzSEtYX05NSndfTmZBVHN0Skp6UTc2XzhPTG5fbi0tLTlTNDNWQW5QaUlqWEZCWXMtTNIB8wFBVV95cUxNbXhKNVhYVjBQLXpwOUJqYldUdXo3eU44c3MxaU5aSFozR3VoVG1XaHg5anZyX0RoRXVod20yOUNId0dLbE9YSEw0OTh1VW5sQkNCRUlzbWRlcEFHRFNvUmxESGxMVnZJcDZ5ZmIzVkxEaGlXQ0kyOXoyNncyTnNndUZHTnctOEdaYUpGWlg1dDg3Y1QzaHh2QW84YkRhdEZPeEJBOV9IQlRiNEpkQW13OVBsUkw4c0J3Qm9VMmJVTW0wRFg3R1FoYWNxblNYd0pSUHgtV0RqLVZ0ZE02SDJ1REhHcjg3djlpT2xpdGVacmdJMU0?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenhOd2Nzbjd0amFYVFZYQ3VYaTNacjdkNkZlMDZaWmtXRnlUSXZUNS1vXzdJYWFXTXNPZU83elVqQ0JwTjZPdFYtS0g0ZXhaTjh2TGZ6SC1peURxOTVuSG9mMzFRSnBVejZ0dzBPY21od0dLdjZFQ1B4bGFqNU5vTlh6b0pqRTFSNFA3dVVoZWs4UkVyS1dUQU9obVViMXJLZTlDTG1FSTZhdk8xc2lldWl0LXhTREZOZzhBcU42V1VRSmF4Y1Z4aER6QXhvd9IB1AFBVV95cUxNbmZ4WFJjd1dvamYzeHJTMDlZYTdOaHJ6VUczSE9ocE4yV1JhQnYtZEhsSUtIamlUTDlMSlU1SGl2WXRMeEFCeWhiU2xnOEpBb2xZUjRDa1JsdF8tWVlQNXRaVkVYOFRIZ0J4TDdvR1JUNE9RbVQ2U3BOaGZtN0xaMENSSUxEbnNJV3E1Q3dDQVM2S09najk0SV9neWdIa082eDM5WUI5RGNxSi1xUVQ3dk0zOUtPR3BZelM2TEVUOVp2ZUJkNF9xZzlHUnM4c2cyLXNMNA?oc=5",
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcmpJSkhuN0FPTTFSWjhzUkFfZDZSTWdpWGZSSVVKdEhLTnJKajBlankyWG1TVXMxQVdoZDQwZ2RMYmZ6Wkdwb0NFOGxhRC1HaDlpZzgtQnJaajVLV2hncTliSWdaazdlTzVsMy1nb0p0UmJ2ODlfLUZWQjhzb0taQW9ZRHZ2dFpOd1p0RTN5dl9fWjByWm1qNGlrenZYTmtaa3laRVllbmVhc251cHFuQVR0aldzTXdvYlZrSGZsZWxxUl9vX0xsS2lXVUc4SGNla09Gb09rT3IxYm05bVlENlRlZHVFcHZYQVNlNkxXX2dlbjZiSGtV?oc=5",
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VRGxZYnMydlJRUW1WN3VoM1FTejR1NGpFeWRNanZyZGNsbzl5cjJMdGFlVTRycjhrc3psYlVITGdZYVp3ZVZBVzRKTmMwUDNfNTdxQ2NKUFBld0VJSnc?oc=5",
+    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtSVg3bTd0RERRTU9XTURJVGdRSFdvYWQ4RThMblRTT2x2cGRicllyaE9iMnNPNjFIQTJ1b19KdmVQeHF6dmJxT01Cb3hZSlZwTkM2MGo3MEE0ZnhXeTl4Zm9KaS1EUGZBRmM2VHEycWJhbFJTUDVEZw?oc=5"
   ],
-  "last_run_utc": "2026-11-20T12:04:26.315593+00:00",
+  "last_run_utc": "2026-11-21T11:38:52.833723+00:00",
   "exams": {
     "GPSC Computer Engineer": {
       "status": "active",
       "items": [
+        {
+          "title": "NIELIT Recruitment 2026 – Apply Online for Senior Programmer, System Analyst and More Posts - FreeJobAlert.Com",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWE4a1IwLXFlV2ZjY3gydzZUT3Ftb2ZOZTBfQ2lfMG82Z09ERGlwZkZUNzl2T0pacTVNNWxaaXIyYVc5SXNkR1NEZ09RS2lxUzNXV2dzZnZkLUl1UGZ5d2ZoZW1XcGYwUlROUTE0TVJQb2p6UlhnbWoxOW5HLWNTRmZvcHFMbmo5ZEJlVmViR29nbHloellLQXlyZVdsNTlrbG4wd3h2S1V6bTQ5MERnZGs1eHhGQlZONm1WODhYRkptUDYwdWxaUFRnLUk4cGs?oc=5",
+          "source": "FreeJobAlert.Com",
+          "published": "2026-11-10T08:00:00+00:00",
+          "first_seen": "2026-11-21T11:38:52.833723+00:00"
+        },
         {
           "title": "GPSC Assistant Engineer Recruitment 2026 – Apply Online - FreeJobAlert.Com",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdTdJa29MNURyaDU5aWxHeVFITDFHZzRKNVI1UFU0a3pQQjN3ZmR6VkRTeUt5dVRRenBNSUFwYW1SWmFuWHRnVE5PZ1hjajcycm1uNDE3SFBsVkVGRk9QNWduTjhid3JCTy1jcnV3VGtLUGdBcFY5X0gtYXBCOTlLUEhnREJCeGIyVmp5Z292MmUwTGQ3NEZtQmhRb0I1bTdzcEdDczNDaUtRdw?oc=5",
@@ -1410,6 +1433,20 @@
     "GSSSB": {
       "status": "active",
       "items": [
+        {
+          "title": "GSSSB MPHW Answer Key 2026 Out at gsssb.gujarat.gov.in: Check Steps to Download Response Sheet & Raise Objection Link Here - Jagran Josh",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSzZMbDVGcjJQVVJtUGl0UXpkOXZoSG9LWDBNM0UyUGt3ekM1RkpzOWVQdE5WRXlId3pLekFLeFNBSGF1WFliOXdrVDdSWUd6QjI4MFE5UTVTOHdaZXA3bEtNYlh3LUNlclhGOV92OEl4b3RYT3ZJeXRPbEEwb0g3X2pBSzR2cFJDUlBUMFZmQmRRdDdkd2ZEanduYzdyUlZ0SW51UG9MR2xPemlZRXNqRDZ5bnF2VEVqM3prNXl3VXBDNlFibmlsRGN2cTZHNjhhSkFQR0ppZE5hTkVxQm4ybmF0TUxJcVRDcnNFdnVzMk5GMGPSAfoBQVVfeXFMTkpENTZaT0RlSWlNcUhzMkh6M0RFbk04RVhJWWlHQ3lYYm0wbUpnUkNUQmxIVXpaZGI2Nm53OEZ3alhLM3lReGFURFJrMU4xaV9mWmVfLXZNb01Pa0xWM2t1el9vbVJWcjBIUmZucC15SjdnM2FneTIyamRqbnBiM2VJdEJjd3VXU0F4STBUX1JlQkZpaXJuU3l1bXpVMkxrMGpWSUZKYUNtQm1OcFp4YzlPeGQ0dTR6QXd4SGo5cnRqRXUzV1VvMGZxRFNDdDRTRUhvSENJVEdIcVhfRWNncFQyRUNhWFFsOFgwY0wxM2xieVdmeDZDS2xDQQ?oc=5",
+          "source": "Jagran Josh",
+          "published": "2026-11-21T05:21:31+00:00",
+          "first_seen": "2026-11-21T11:38:52.833723+00:00"
+        },
+        {
+          "title": "GSSSB CCE 2.0 Recruitment 2026 – 1,237 Group A & B Posts | Apply 5–30 Nov – Apply Online - rojgarpulse.in",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxeGYxeVJ4N2xDajJRcjdVOEdRSWFYUGdGbWNUZ3dwbWVmLWpaVHByOVIyWVI1Z3o4WWhidWMtaF80RmVWalZFY09Ga1Q1R3B0Y2lVMk90UGhnVTZHWWFz?oc=5",
+          "source": "rojgarpulse.in",
+          "published": "2026-11-04T08:00:00+00:00",
+          "first_seen": "2026-11-21T11:38:52.833723+00:00"
+        },
         {
           "title": "GSSSB Accountant Admit Card 2026 Out at gsssb.gujarat.gov.in: Download Auditor, Sub-Accountant/Sub-Auditor Hall Ticket PDF Link Here - Jagran Josh",
           "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNmhkUXlrYndzQVMydjFONVNtaUt6aGJkTTY1eXcydXdHcXJsbXlSSk9Ua0IwelI4S2xkV1VwWUxmNk1ydHRLaURianhPX1BrSEJhaXpFWUVoYW5IbEhCa0dxSms1bTI3ME1iRWxWNTkwbGpfa0JpaVdfVnYyZHctNFR0ZmRUQU1aWXpIMWJtbzlkaFpScGxTclg0Y1hjZ2hSelFiQzZnZmV5cUNWN3FYSWUxRHJzYkJ3dVMwd0pkeXFIVlF1UENCX1pjZDltSk1CQ0tDWnZkUURhMndIYkhqejFFOW13bHlyV3d4RTZoWWRVQWlPdjFlYTFXMzJYamIzak5sMNIBiwJBVV95cUxOcWlXcGE5U2lkTGdmaEhVaWQxQ3NiTnRleTMzWXNfbThKdG5EVUF3VEZUUzNkYTMzTk4xeDdSRmJsdzlDdjV4SFNvSWpaNTU2RnJsVnYwdVRjTm50NDVoRkp5YWNROC1oemlsUXowS3BSMEpIVkNyOWp2SlVoX0JXMFpVNEJram03T2hhXzNLY194UEhvU0ZQZkd1TjRWbks2V2U0QnZVR2tRM0tEUGNpVU96TGdlLWZ2a3JYcWg1OEhvY196RnRvc3M5QVNpdHNzMEt5Q18zQzRDRXdfNmxMYmo3cDkyX2ZxdUo2S2Jya3BBbTB6N2NhZjByMjB3NUxhREV4ZWxBaGxYTEU?oc=5",
@@ -1535,20 +1572,6 @@
           "source": "Bhaskar English",
           "published": "2026-11-04T05:59:11+00:00",
           "first_seen": "2026-11-04T11:28:24.092789+00:00"
-        },
-        {
-          "title": "GSSSB AEE Admit Card 2026 Out at gsssb.gujarat.gov.in: Download Horticulture Assistant Hall Ticket PDF Link Here - Jagran Josh",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNODE0TGkwSVJwVHlfaHZkbk1mRFZJMEdtaF9SYmJqUDRBUGlaejBOQmp4bVpZMkF0U2dCM3FYQU13OUxqaW02VjkwVzdGNHZtSUx0alVMa1k5dzZwUWsxVnR3elZ6QXNaZE9WVkxsWHVlNFB0dWtrNU9RNlc5TnlUZjFkU3g0eFMyV0x6QVNnQkx6OHF2SmxNVHMyTjBmMm5nVjdLWkd0QnpEa0dORGRXZTQwNGJwTEVEWXFGSkxGY2JxMVp2QjgxRmVpX2xjZlNRR3BfMmZHWkgyN3pmb3VXcEdqSF9DYUM3bkIwUDM3cS1qLTFk0gH7AUFVX3lxTFBfeTdfbGpkeTdlSU5LM05SVFZra083YnFNaHZmZmN0LW43RUt0WkdhbmhWN1BsZF9tX2NER1NQX1V0aG9TTFJWcGx3eHZHOGwyOWthelFBNDlLUUh4YzVkZFl1VlNyNWVRRjVZUTNyOVBPalNlc3pNQU9TcXBLLVE3UTJLZnkyS1llbjZoY094VWhnRm5Pb29WbE1aWTI3MFNOMzVVNEh2U3k0VUhOdXpJdXRtS0dsRDAtNlNzM1UzazRrakJIN1ZUWmxxRjJhamlNNlVqb0ItaUp5YmhwZHJRanRPNWpBNlFvdFJqSURtQ2Q3eE1tOExVSlFn?oc=5",
-          "source": "Jagran Josh",
-          "published": "2026-11-03T03:43:12+00:00",
-          "first_seen": "2026-11-03T11:16:29.685967+00:00"
-        },
-        {
-          "title": "GSSSB Final Result 2026 Out at gsssb.gujarat.gov.in: Download Ophthalmic Assistant Merit List PDF Link Here - Jagran Josh",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNGRUckF4a1U5TERkR2l2QzhTS1RndXFYNGxGZnFRZ3dZY1lzSWpfel9RUmxoTEczQWFVa0M5aGVBMF9vQWpyV1phN3hVUldOdjBLQnRfWllwcUhtZ043d3RPVjlQZU1oQzFVbEdkdFc2Nmo0dXBNemdEV0tyMFlTQWMycXhJdlpnSmx5WGdaU2d4TmozdDhaRXZpcGwzbWZnTGtoT1NTWUZIb2NzZGw5X0tRSTExLUZnd2FsRE1qMW9acjhuUUp2ZFI0RTBPWHVDa1c2U2pYcy16UGR6enFiUE5mTHHSAesBQVVfeXFMT0ltdDI2S0EyRDZfak5aNlV6dk1BNUZxeVlfR3BweTlZMWdtbEU1TVJqenRNU1VsNkttdWtBU2s2cVV0N2txUjRDQlNuc3pTUERkZ1loeTgtbTFIU1BqdXg1c1l2R3lvUndmOC1zSHk3UnphS19aQXJYcXo1cW1OMTNkRy1nMl9vaHE5WXYtSm0wVE56bVhBRW1rdnNLV09sN1RJM3lzTjNNa3BfOGIyam81QS1jZWtDOWlUZzBpajEtMGpEaEpOVndzTHZ1VU45WWRYeEdZRV9wNmpnTDNkczJqdmZrQmdNWHpPNA?oc=5",
-          "source": "Jagran Josh",
-          "published": "2026-10-31T06:31:25+00:00",
-          "first_seen": "2026-11-03T11:16:29.685967+00:00"
         }
       ]
     },
@@ -1619,6 +1642,13 @@
     "Gujarat High Court": {
       "status": "active",
       "items": [
+        {
+          "title": "High Court Dismisses Union of India's Petition Challenging CAT Order Directing Regularisation of Deputationist. Continuous Service and Availability of Vacancy Justify Regularisation Without Separate Recruitment Process. - Lawtext",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aRVp5RzFuTFpWM3hzQWRmV3F6UnVCM0lNMXlPLU9fLTdULVBUcWo4ZTAwY09NT2NUNExKUi1rbXY2Q0hZUXowUzVqWEhqM0NIR2h4cmdrbGtvS0RVbWl5XzlkSlpRUQ?oc=5",
+          "source": "Lawtext",
+          "published": "2026-11-19T03:33:42+00:00",
+          "first_seen": "2026-11-21T11:38:52.833723+00:00"
+        },
         {
           "title": "Gujarat High Court Dismisses Petition Challenging Removal of Minimum Qualifying Marks in Recruitment Process. Amendment to Important Instruction Notified After Preliminary Exam Held Not Applicable to Ongoing Selection Where Interview Yet to Be Condu - Lawtext",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GYmpRUmxWNURndUxEVFVtX3E1dG1kcTlYeDQwbjVWbWU4T180YVdMQzU0eHk0S1hTTkFGWEhKNVpVa05KcUc5U3FvR3dxZlFfX3lVWGwtbVpFcWhWRUV2T3lMUkpYUEVu?oc=5",
@@ -1894,6 +1924,13 @@
       "status": "active",
       "items": [
         {
+          "title": "SSC JE Result 2026 Expected Soon: Paper 1 Result Date, Merit List PDF, Cut Off and Latest Updates - PW",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12MVY3dVRORTZKNlZhMnRORjJqZlNrSzdfUHRtcmpiZzhlR0syNDNPUVhNdVg2QnZaSGxKWHdyNFJXMnMtUjZiUHR3eVROLVpuOEVJVy16UnM0SmN0?oc=5",
+          "source": "PW",
+          "published": "2026-11-20T09:28:52+00:00",
+          "first_seen": "2026-11-21T11:38:52.833723+00:00"
+        },
+        {
           "title": "SSC JE Answer Key 2026 Out: Download Response Sheet PDF, Raise Objections - PW",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GcUZCZTM5dGxCYU12OXFVZkI2cGp1MHZLN1pZcjRhX0pHOExyVW9VUTg4S2xQYm16WnRlRlR5UDZ3Z2hUd1ZqdWhlbHNnQnJDWjBjV0lpMVdTcURJS092VA?oc=5",
           "source": "PW",
@@ -2025,13 +2062,6 @@
           "source": "Careers360",
           "published": "2026-10-30T08:33:30+00:00",
           "first_seen": "2026-10-30T10:23:48.730017+00:00"
-        },
-        {
-          "title": "GSL Non Executive Recruitment 2026 Out, Apply Online Starts for 92 Posts - Adda247",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamxDbW5BRW5JRzNBRktNUHlybWdud3phSjVaMnVTT3JUU29tbEZucDlUZGg2TDBEYVZZWFZYSkJPVmdqWGRqQkJzeTlfV3hTRXdJSVBCNFpNYXdLNDNHdFZSWkhiT2ZzNUhlLXVLRHJJUnQ0NFJyeTNvaGFTQTZMU2RR?oc=5",
-          "source": "Adda247",
-          "published": "2026-10-28T08:31:43+00:00",
-          "first_seen": "2026-10-29T10:21:25.389935+00:00"
         }
       ]
     },
@@ -2085,6 +2115,13 @@
     "IBPS PO": {
       "status": "active",
       "items": [
+        {
+          "title": "PNB Clerk to Scale I Promotion Exam Notification 2026 Out, Check Eligibility Criteria - Bankersadda",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbXFaQ0ljOWliMEFMOVhsenN5X1VVMjU2ZEZQNzUzbmxLVTVic09rLV9BSmFVU1Q3YXNGaXJ4TmxZYzBWNEhKRnlhZXlzWHVpZ1JDVDlGT3hnNjAwd0k5UFM3b0JEUEhYbTB0Ykk0eWlCMHFXSVVVYW9ZN05WQ0pYQUxfNE5KSG15Ync?oc=5",
+          "source": "Bankersadda",
+          "published": "2026-11-18T11:47:45+00:00",
+          "first_seen": "2026-11-21T11:38:52.833723+00:00"
+        },
         {
           "title": "IBPS PO Mains Result 2026 Out @ibps.in [CRP PO/MT-XVI], Download Phase 2 Result Link - Adda247",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5U1NvdjB0MjhrZUZMWHE0R1Z4RTRTTl80WU1RQzM5UHpaVkprZVVvelA0NXFJTk1qbTVjZkJNUVdhcVVYTlJ3VG9lekZ4dDdrdXU1dmZrM2lqVGs5RW9lREoxVlZaVF9lSFFrWU13?oc=5",
@@ -2189,13 +2226,6 @@
           "source": "PW",
           "published": "2026-10-13T10:31:36+00:00",
           "first_seen": "2026-10-13T10:58:11.047403+00:00"
-        },
-        {
-          "title": "IBPS Clerk Prelims Admit Card 2026 Out @ibps.in, Download Hall Ticket PDF To Print - Adda247",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zOTlnZTdVUFBnX1RQeVRSNGpvRkNSU2t2aGJEb2RwWXp3M0lOMmdXVXltcnBDQlF3S25fbkRpLVFNYmJ3VUxNNUNXZlZrSGt2TUJVZGdUUXFTbml0TWJOU2VMNjJuak0wSU50Q09YamZpRXdrTzUyWHdn?oc=5",
-          "source": "Adda247",
-          "published": "2026-10-07T10:27:20+00:00",
-          "first_seen": "2026-10-07T10:31:50.302011+00:00"
         }
       ]
     },
@@ -2228,6 +2258,20 @@
     "RBI Grade B": {
       "status": "active",
       "items": [
+        {
+          "title": "SIDBI Grade A and B Notification 2026 Out 68 Posts, Apply Online Starts - Adda247",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4NnIzd1MyaWtIVVh3SlRlLWE0Q0pzVFU1akdfeFBJU3dRam0xcDA4a0Q3cEdwaDl1em15dnNHeWQtZnlwMXhsVEtHSVEzR3RxbmtzTExaLXQxcmtXRXE2cGYzanZmbWdPZktmN0ZXbnp2SGkySmU4?oc=5",
+          "source": "Adda247",
+          "published": "2026-11-21T05:01:27+00:00",
+          "first_seen": "2026-11-21T11:38:52.833723+00:00"
+        },
+        {
+          "title": "SIDBI Grade A and B Recruitment 2026 Notification Out For 68 Posts - Bankersadda",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83MHdaT1hfS05QdWdQMTVtSjZhMnFKc25rV3VmaEEzalFRSVN6cUxWT2J1TnZYQm5hR0JFSkh1YV92TnJhNlA1aUwwX0VvOUctQnh6XzNJczFIbS0zb1hMTDU2NEdOd1AzWmZfaWEzOWtob0E?oc=5",
+          "source": "Bankersadda",
+          "published": "2026-11-20T17:36:20+00:00",
+          "first_seen": "2026-11-21T11:38:52.833723+00:00"
+        },
         {
           "title": "RBI Officers Tender Notification 2026-27 Out, Check Official Notice - Bankersadda",
           "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IREF4MkVKdjZPSHhFMzZfSk0xb2xoUl82cU1mMFpFSzZubGtPTk11cE1ZSHFXd04yV0ZfRndWX1otT2tnT0JIendkMXdIdnJoTkJ3Q3ZGbG5oS3dNOFQyNkFhX3o1T1RaYmRKMnZGZFJhd2Zy?oc=5",
@@ -2353,20 +2397,6 @@
           "source": "Adda247",
           "published": "2026-10-09T07:00:00+00:00",
           "first_seen": "2026-10-16T08:27:24.164671+00:00"
-        },
-        {
-          "title": "SSC Selection Post Phase 14 Cut Off 2026, Check Previous Year Marks - Adda247",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02RUhXem1RWGtvU2ZzLWxKWDFpTlU4eFBYU0RuV2NxQkwtaUJsOXo0LVhOM2hWamdqdjd0M2wzRmo5VDJIdGF3MzFfYVEyZHdhOU9jTmQ2VzF4SjFDMnVIWjdUMzVYMUE?oc=5",
-          "source": "Adda247",
-          "published": "2026-10-09T07:00:00+00:00",
-          "first_seen": "2026-10-11T10:16:22.845658+00:00"
-        },
-        {
-          "title": "NICL Assistant Cut Off 2026, Check Expected (Prelims) and Last Year Category Wise Marks - Adda247",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qcXRIMndQRlhnOU9KMWo3cEx0cjFXSFI0MlZlZmJTcjRwXzZpaFNpNVEwYV9xMms2VFZHb0ZNRHUtZkdBVEE2QjJVemF6UlpRa0trT1Brd3FjQVZXUFVpVzFn?oc=5",
-          "source": "Adda247",
-          "published": "2026-10-08T18:16:07+00:00",
-          "first_seen": "2026-10-09T10:51:29.009321+00:00"
         }
       ]
     },
@@ -2615,13 +2645,6 @@
           "source": "Adda247",
           "published": "2026-10-08T07:00:00+00:00",
           "first_seen": "2026-10-10T10:05:36.935423+00:00"
-        },
-        {
-          "title": "NLC Executive Recruitment 2026 Out, 145 Vacancies, Notification, Eligibility & Apply Online - Adda247",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WUkJHMEdxbnplR0lLc1NNLWVnSWxXbm1KX1BFTmplaUFodnFNQW43S2xpSkpkUDRGS1I2N1JZa1pRb0wxRE12YnIxelk4LVNFWmt5WVF2U1B4TndFSU9ZemFBWTB5cEluLTJrYkVGckpIQlhSZ3YwUVBMbXU?oc=5",
-          "source": "Adda247",
-          "published": "2026-10-06T13:14:30+00:00",
-          "first_seen": "2026-10-08T10:52:53.321751+00:00"
         }
       ]
     },
@@ -2690,6 +2713,13 @@
       "status": "active",
       "items": [
         {
+          "title": "DRDO New Recruitment 2026 | DRDO Vacancy 2026 | Govt Job Nov 2026| New Vacancy 2026| Sarkari Naukari - YouTube",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0yakhoX2RHdWZHa2RHVzQ5emlOLUlTeC1id3R2TFZpcFFrUzJNcWFlVW9XV0RHTjRPVXFSMHJ4aVlzZw?oc=5",
+          "source": "YouTube",
+          "published": "2026-11-18T05:44:30+00:00",
+          "first_seen": "2026-11-21T11:38:52.833723+00:00"
+        },
+        {
           "title": "DRDO CEPTAM 11 Tier 2 Result 2026 Out, Check TECH-A Result Status and STA-B Updates - PW",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vMWg3TGdIc1lQYjdndF9aT0xocXBvRkp6RzY5bGdYQVBhZTZMX0k3ZTExVmRYdXNUZlVhUXpNdTBBREtmMVNDeEdkSDloVExNOVNnNWctRnZCTmROd25BY29USVVBOUV2N21SeTczSmRLZms1a1pN?oc=5",
           "source": "PW",
@@ -2730,13 +2760,6 @@
           "source": "jeevanutsahnews.in",
           "published": "2026-10-22T04:14:36+00:00",
           "first_seen": "2026-10-30T10:23:48.730017+00:00"
-        },
-        {
-          "title": "DRDO Scientist B Recruitment through GATE 2027: Date, Eligibility, Steps to Apply, Salary - Shiksha.com",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUTFjbVg4VlJnNjVMckI4WTVoNGxwZi1jV3MwX1pEQlJ2U3I0dWVpV2pqcWR5cEhza3c1MEhlcjRCdXpJMS1HMXJONkwwSXEtU3l6WS1Sd1JXc2hWVmREY0VSSjlBckZsaC01NEk5NGFaNnp2d0hZdU5TZU81OERjZTI4UXY5RGR3b0dRMWxZblQ?oc=5",
-          "source": "Shiksha.com",
-          "published": "2026-10-07T07:00:00+00:00",
-          "first_seen": "2026-10-27T09:17:34.587404+00:00"
         },
         {
           "title": "DRDO Invites Applications For Paid Internship, No Exam Required, Check Details - NDTV",
@@ -2785,6 +2808,13 @@
     "UPSC (all)": {
       "status": "active",
       "items": [
+        {
+          "title": "UPSC opens applications for direct recruitment to Govt. posts: Apply by this date - Babushahi.com",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VRGxZYnMydlJRUW1WN3VoM1FTejR1NGpFeWRNanZyZGNsbzl5cjJMdGFlVTRycjhrc3psYlVITGdZYVp3ZVZBVzRKTmMwUDNfNTdxQ2NKUFBld0VJSnc?oc=5",
+          "source": "Babushahi.com",
+          "published": "2026-11-16T08:57:00+00:00",
+          "first_seen": "2026-11-21T11:38:52.833723+00:00"
+        },
         {
           "title": "UPSC opens applications for direct recruitment to Govt. posts: Apply by this date - Babushahi.com",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZOWtCWWh5cFFIbjlpRlh0bzNqTkMzMlJFUHA3WG9nLXM0X3JrVzhKeVVyaWEyTjNVN0stU3RueS13NU1zNzl3WFpWMHhSS1VJX0NGQmxOZmRwRm95aUE?oc=5",
@@ -2917,13 +2947,6 @@
           "source": "Sakshi Education",
           "published": "2026-10-08T11:13:38+00:00",
           "first_seen": "2026-10-10T10:05:36.935423+00:00"
-        },
-        {
-          "title": "UPSC ESE Notification 2027 Out, Apply Online Last Date Today for 480 Posts - Adda247",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94cVRvT0ZBLTRvbXNiMzJRWG9TT2NtT1hFaWlIRXl4dExneHlwZ19pU3dzNTI5SzY1S2NZWHdBQ1hveExhckZXbkp0Q3VvU0xkbmlLTjhjUUQta2NMaVNvZ1JSLWdBN3NPYlltV1daRW1FSmVMeXpZ?oc=5",
-          "source": "Adda247",
-          "published": "2026-10-06T15:24:59+00:00",
-          "first_seen": "2026-10-07T10:31:50.302011+00:00"
         }
       ]
     },
